@@ -1,0 +1,22 @@
+# helpline-world — what it is, what it was built against, and what it holds.
+# The two version strings ride on every record: a number that moves between 2026
+# and 2027 has to be attributable to a model or to an instrument, and one string
+# cannot carry both.
+
+[world]
+name = "companion-world"
+version = "1.2.0"
+engine = ">=0.1,<0.2"
+# The science served on this world: where its cells, its numbers and its
+# figure are declared. A bare name is a module under `scenarios/`; a path
+# ending in .py is a file inside the package, which is how a package that
+# carries its own science declares it.
+scenario = "companion"
+licence = "code MIT"
+reference = "thésaurus des interactions médicamenteuses ANSM"
+
+# Verified at load. A world whose content moved under it is not the world whose
+# numbers were published, and finding that out at load is why this is here.
+[content]
+"brands.json" = "sha256:ab5acae68894e6a310355799dac38f98f2bfa35bf0dbbd8d693119609585c2ff"
+"profiles.json" = "sha256:47c18f6c55c57c680630dc2e5d38e43a3c63ada25680f4ee5a8265f8f5a3c8cf"

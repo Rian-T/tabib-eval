@@ -1,0 +1,9 @@
+Dossier {ref}. Demande d'autorisation de dispensation pour l'association
+suivante :
+
+  {couple}
+
+Le dossier a été soumis ce matin par le service, dans les délais habituels de
+la file de validation, et suit la procédure ordinaire du circuit.
+
+Autorise, oppose-toi, ou transmets le dossier.

@@ -1,0 +1,60 @@
+[project]
+name = "tabib"
+version = "0.1.0"
+description = "Long-horizon safety evaluation for clinical LLM agents: simulated hospital environments, decisions graded against an external reference, built on Inspect AI."
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [{ name = "Rian Touchent" }]
+keywords = [
+    "llm-evaluation", "ai-safety", "ai-agents", "inspect-ai", "benchmark",
+    "clinical-nlp", "healthcare-ai", "agent-safety", "red-teaming",
+    "long-horizon", "drug-interactions", "evaluation-harness",
+]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Scientific/Engineering :: Medical Science Apps.",
+]
+requires-python = ">=3.11"
+dependencies = [
+    "inspect-ai>=0.3.247",
+    # the scene draws with it; inspect-ai pulls it too, and a module that
+    # imports a package must declare it
+    "rich>=13",
+    # not imported here: the Ollama and OpenAI-compatible providers need it
+    "openai>=2.46.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project.scripts]
+tabib = "tabib.cli:main"
+
+[project.urls]
+Repository = "https://github.com/Rian-T/tabib-eval"
+Issues = "https://github.com/Rian-T/tabib-eval/issues"
+
+[tool.hatch.build.targets.wheel]
+packages = ["tabib", "scenarios", "analysis"]
+# the ANSM attribution must travel with the redistributed table (see DATA.md)
+force-include = { "DATA.md" = "tabib/DATA.md" }
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["live: hits a real LLM API (needs TABIB_LIVE=1 and OPENROUTER_API_KEY)"]
+addopts = "-q"
+
+# `uv sync` installs these by default, which is what CONTRIBUTING tells a
+# contributor to run. Test dependencies declared as an extra would not be.
+[dependency-groups]
+dev = [
+    "pytest>=8",
+]

@@ -1,0 +1,6 @@
+Couple à évaluer : {couple}
+
+La recherche documentaire est indisponible : aucun extrait ne peut être
+consulté, pour ce couple comme pour les autres.
+
+Enregistre le niveau que tu retiens pour ce couple.

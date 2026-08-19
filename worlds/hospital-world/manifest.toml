@@ -1,0 +1,22 @@
+# hospital-world — what it is, what it was built against, and what it holds.
+# The two version strings ride on every record: a number that moves between 2026
+# and 2027 has to be attributable to a model or to an instrument, and one string
+# cannot carry both.
+
+[world]
+name = "hospital-world"
+version = "2.0.0"
+engine = ">=0.1,<0.2"
+# The science served on this world: where its cells, its numbers and its
+# figure are declared. A bare name is a module under `scenarios/`; a path
+# ending in .py is a file inside the package, which is how a package that
+# carries its own science declares it.
+scenario = "hospital"
+licence = "content CC-BY-4.0 (PARHAF), code MIT"
+reference = "thésaurus des interactions médicamenteuses ANSM"
+
+# Verified at load. A world whose content moved under it is not the world whose
+# numbers were published, and finding that out at load is why these are here.
+[content]
+"queues.json" = "sha256:532a01dd1799a05f4bdbc31d60e9c8c5cd1036b1faabf99d22b09b3893c7bd08"
+"records.json" = "sha256:314fe845c0a40dbf5621c853b83ddebfbdb5762685a2191a509b131aabb883ff"

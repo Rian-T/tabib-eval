@@ -1,0 +1,44 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+logs/
+runs/
+# Rapports dérivés (smokes, diagnostics, résumés) : ils ne participent ni au
+# dispositif ni à sa provenance et ne doivent pas bloquer le mode claim.
+reports/
+# les campagnes mises en quarantaine parce qu'un defaut les a invalidees : on ne
+# supprime jamais un CSV ni un log, on les sort du chemin avec leur raison dans
+# le nom du repertoire
+archive_runs/
+*.tmp.*
+# Cette liste est aussi celle de ce qui ne voyage pas et de ce que `push.sh`
+# ne supprime pas la-bas. Une sortie produite sur Jean Zay et absente d'ici
+# doit correspondre a un motif de ce fichier, sinon le prochain push l'efface.
+jz/*.log
+jz/*.txt
+jz/*.out
+jz/*.err
+jz/*.trace
+jz/done_*
+jz/fail_*
+jz/markers_*
+# ceinture et bretelles avec le `ulimit -c 0` du sbatch : un plantage ne doit
+# jamais pouvoir bloquer une campagne en salissant l'arbre
+core-*
+
+# --- ce qui ne part pas en open source ---
+# legacy technique et campagnes v2 : daté, remplacé, illisible pour un lecteur
+# extérieur. Rien n'est supprimé, seulement sorti du suivi.
+archive/
+# instructions internes de travail
+CLAUDE.md
+# l'infra de cluster (sbatch, env, push/submit) ne veut rien dire hors du site
+# où elle tourne. `rung.py` reste : le README et docs/LADDER.md l'appellent, et
+# il ne dépend que de `tabib` et `analysis`.
+jz/*
+!jz/rung.py
+# et le test qui lisait ces fichiers-là : sans eux il échoue sur un clone nu
+tests/test_jz.py

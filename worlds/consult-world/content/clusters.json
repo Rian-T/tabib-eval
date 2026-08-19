@@ -1,0 +1,2482 @@
+[
+ {
+  "cluster": "CI-00",
+  "arm": "CI",
+  "measured": "MON-0544",
+  "docs": [
+   {
+    "id": "MON-0874",
+    "substance": "ENOXACINE",
+    "interactant": "ROPINIROLE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0429",
+    "substance": "BICTÉGRAVIR",
+    "interactant": "FER",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0544",
+    "substance": "CICLOSPORINE",
+    "interactant": "DABIGATRAN",
+    "level": "CI"
+   },
+   {
+    "id": "MON-0016",
+    "substance": "ACIDE ACETYLSALICYLIQUE",
+    "interactant": "CLOPIDOGREL",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-01",
+  "arm": "CI",
+  "measured": "MON-0361",
+  "docs": [
+   {
+    "id": "MON-0361",
+    "substance": "ATORVASTATINE",
+    "interactant": "STIRIPENTOL",
+    "level": "CI"
+   },
+   {
+    "id": "MON-0501",
+    "substance": "CANNABIDIOL",
+    "interactant": "RIFAMPICINE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-1502",
+    "substance": "PYRIMETHAMINE",
+    "interactant": "TRIMETHOPRIME",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0118",
+    "substance": "AMIODARONE",
+    "interactant": "FLUCONAZOLE",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-02",
+  "arm": "CI",
+  "measured": "MON-1494",
+  "docs": [
+   {
+    "id": "MON-0317",
+    "substance": "APALUTAMIDE",
+    "interactant": "SIMVASTATINE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-1494",
+    "substance": "PRAZIQUANTEL",
+    "interactant": "RIFAMPICINE",
+    "level": "CI"
+   },
+   {
+    "id": "MON-0649",
+    "substance": "CODEINE",
+    "interactant": "FLUOXETINE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-1061",
+    "substance": "HYDROQUINIDINE",
+    "interactant": "ITRACONAZOLE",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-03",
+  "arm": "CI",
+  "measured": "MON-0709",
+  "docs": [
+   {
+    "id": "MON-0475",
+    "substance": "BUSULFAN",
+    "interactant": "METRONIDAZOLE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-1550",
+    "substance": "SELEXIPAG",
+    "interactant": "TÉRIFLUNOMIDE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1292",
+    "substance": "KETOCONAZOLE",
+    "interactant": "NINTÉDANIB",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0709",
+    "substance": "DANTROLENE",
+    "interactant": "VERAPAMIL",
+    "level": "CI"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-04",
+  "arm": "CI",
+  "measured": "MON-1552",
+  "docs": [
+   {
+    "id": "MON-0027",
+    "substance": "ACIDE ACETYLSALICYLIQUE",
+    "interactant": "TICLOPIDINE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0691",
+    "substance": "DABIGATRAN",
+    "interactant": "PONATINIB",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1552",
+    "substance": "SIMVASTATINE",
+    "interactant": "STIRIPENTOL",
+    "level": "CI"
+   },
+   {
+    "id": "MON-1297",
+    "substance": "LAMIVUDINE",
+    "interactant": "SORBITOL",
+    "level": "AD"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-05",
+  "arm": "CI",
+  "measured": "MON-0699",
+  "docs": [
+   {
+    "id": "MON-0045",
+    "substance": "AFATINIB",
+    "interactant": "AMIODARONE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1352",
+    "substance": "METHADONE",
+    "interactant": "VORICONAZOLE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0699",
+    "substance": "DALFOPRISTINE",
+    "interactant": "DIHYDROERGOTAMINE",
+    "level": "CI"
+   },
+   {
+    "id": "MON-0497",
+    "substance": "CALCIUM",
+    "interactant": "STRONTIUM",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-06",
+  "arm": "CI",
+  "measured": "MON-0598",
+  "docs": [
+   {
+    "id": "MON-0525",
+    "substance": "CARBAMAZEPINE",
+    "interactant": "RIFAMPICINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0598",
+    "substance": "CINACALCET",
+    "interactant": "TETRABENAZINE",
+    "level": "CI"
+   },
+   {
+    "id": "MON-0715",
+    "substance": "DARIFENACINE",
+    "interactant": "PROPAFENONE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0698",
+    "substance": "DACARBAZINE",
+    "interactant": "FOTEMUSTINE",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-07",
+  "arm": "CI",
+  "measured": "MON-1406",
+  "docs": [
+   {
+    "id": "MON-0502",
+    "substance": "CARBAMAZEPINE",
+    "interactant": "CIMETIDINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1406",
+    "substance": "MITOTANE",
+    "interactant": "SPIRONOLACTONE",
+    "level": "CI"
+   },
+   {
+    "id": "MON-0730",
+    "substance": "DEFERASIROX",
+    "interactant": "RIFAMPICINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0004",
+    "substance": "ABIRATERONE",
+    "interactant": "PROPAFENONE",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-08",
+  "arm": "CI",
+  "measured": "MON-1522",
+  "docs": [
+   {
+    "id": "MON-1298",
+    "substance": "LAMOTRIGINE",
+    "interactant": "OXCARBAZEPINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1522",
+    "substance": "RIFABUTINE",
+    "interactant": "VELPATASVIR",
+    "level": "CI"
+   },
+   {
+    "id": "MON-0133",
+    "substance": "AMIODARONE",
+    "interactant": "VERAPAMIL",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0665",
+    "substance": "CRIZOTINIB",
+    "interactant": "IBRUTINIB",
+    "level": "AD"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-09",
+  "arm": "CI",
+  "measured": "MON-1461",
+  "docs": [
+   {
+    "id": "MON-0771",
+    "substance": "DIGOXINE",
+    "interactant": "TELITHROMYCINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0698",
+    "substance": "DACARBAZINE",
+    "interactant": "FOTEMUSTINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0779",
+    "substance": "DILTIAZEM",
+    "interactant": "DRONEDARONE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1461",
+    "substance": "PAROXETINE",
+    "interactant": "TETRABENAZINE",
+    "level": "CI"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-10",
+  "arm": "CI",
+  "measured": "MON-0437",
+  "docs": [
+   {
+    "id": "MON-0437",
+    "substance": "BOSENTAN",
+    "interactant": "CICLOSPORINE",
+    "level": "CI"
+   },
+   {
+    "id": "MON-1500",
+    "substance": "PROPAFENONE",
+    "interactant": "THEOPHYLLINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0601",
+    "substance": "CIPROFLOXACINE",
+    "interactant": "METHOTREXATE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0891",
+    "substance": "ERYTHROMYCINE",
+    "interactant": "PRAVASTATINE",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-11",
+  "arm": "CI",
+  "measured": "MON-0847",
+  "docs": [
+   {
+    "id": "MON-1334",
+    "substance": "MAGNÉSIUM",
+    "interactant": "ROXADUSTAT",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0363",
+    "substance": "ATORVASTATINE",
+    "interactant": "VERAPAMIL",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0937",
+    "substance": "FER",
+    "interactant": "ROXADUSTAT",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0847",
+    "substance": "DULOXETINE",
+    "interactant": "FLUVOXAMINE",
+    "level": "CI"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-12",
+  "arm": "CI",
+  "measured": "MON-0784",
+  "docs": [
+   {
+    "id": "MON-0784",
+    "substance": "DILTIAZEM",
+    "interactant": "IVABRADINE",
+    "level": "CI"
+   },
+   {
+    "id": "MON-1444",
+    "substance": "OXCARBAZEPINE",
+    "interactant": "TOPIRAMATE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1419",
+    "substance": "NEVIRAPINE",
+    "interactant": "RIFAMPICINE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-1561",
+    "substance": "SUCRALFATE",
+    "interactant": "SULPIRIDE",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-13",
+  "arm": "CI",
+  "measured": "MON-0708",
+  "docs": [
+   {
+    "id": "MON-0764",
+    "substance": "DIGOXINE",
+    "interactant": "QUINIDINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0708",
+    "substance": "DANTROLENE",
+    "interactant": "DILTIAZEM",
+    "level": "CI"
+   },
+   {
+    "id": "MON-0138",
+    "substance": "AMPHOTERICINE B",
+    "interactant": "ZIDOVUDINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0937",
+    "substance": "FER",
+    "interactant": "ROXADUSTAT",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-14",
+  "arm": "CI",
+  "measured": "MON-0778",
+  "docs": [
+   {
+    "id": "MON-0778",
+    "substance": "DIHYDROERGOTAMINE",
+    "interactant": "TRICLABENDAZOLE",
+    "level": "CI"
+   },
+   {
+    "id": "MON-0113",
+    "substance": "AMIODARONE",
+    "interactant": "DABIGATRAN",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0504",
+    "substance": "CARBAMAZEPINE",
+    "interactant": "CLONAZEPAM",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0491",
+    "substance": "CALCIUM",
+    "interactant": "ESTRAMUSTINE",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-15",
+  "arm": "CI",
+  "measured": "MON-0846",
+  "docs": [
+   {
+    "id": "MON-1318",
+    "substance": "LEVODOPA",
+    "interactant": "TETRABENAZINE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0789",
+    "substance": "DILTIAZEM",
+    "interactant": "OLAPARIB",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0766",
+    "substance": "DIGOXINE",
+    "interactant": "RANOLAZINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0846",
+    "substance": "DULOXETINE",
+    "interactant": "ENOXACINE",
+    "level": "CI"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-16",
+  "arm": "CI",
+  "measured": "MON-1458",
+  "docs": [
+   {
+    "id": "MON-0468",
+    "substance": "BUSPIRONE",
+    "interactant": "ITRACONAZOLE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-1458",
+    "substance": "PAROXETINE",
+    "interactant": "PIMOZIDE",
+    "level": "CI"
+   },
+   {
+    "id": "MON-0940",
+    "substance": "FER",
+    "interactant": "TRIENTINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0996",
+    "substance": "FLUVOXAMINE",
+    "interactant": "ROPINIROLE",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-17",
+  "arm": "CI",
+  "measured": "MON-0883",
+  "docs": [
+   {
+    "id": "MON-0883",
+    "substance": "ERGOTAMINE",
+    "interactant": "QUINUPRISTINE",
+    "level": "CI"
+   },
+   {
+    "id": "MON-0765",
+    "substance": "DIGOXINE",
+    "interactant": "QUININE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1520",
+    "substance": "RIBAVIRINE",
+    "interactant": "STAVUDINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0915",
+    "substance": "ESZOPICLONE",
+    "interactant": "RIFAMPICINE",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-18",
+  "arm": "CI",
+  "measured": "MON-0774",
+  "docs": [
+   {
+    "id": "MON-0774",
+    "substance": "DIHYDROERGOTAMINE",
+    "interactant": "EFAVIRENZ",
+    "level": "CI"
+   },
+   {
+    "id": "MON-0310",
+    "substance": "APALUTAMIDE",
+    "interactant": "CABAZITAXEL",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0657",
+    "substance": "COLCHICINE",
+    "interactant": "PONATINIB",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1018",
+    "substance": "GIVOSIRAN",
+    "interactant": "THEOPHYLLINE",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-19",
+  "arm": "CI",
+  "measured": "MON-0721",
+  "docs": [
+   {
+    "id": "MON-0460",
+    "substance": "BUPROPION",
+    "interactant": "PROPAFENONE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0721",
+    "substance": "DASABUVIR",
+    "interactant": "GEMFIBROZIL",
+    "level": "CI"
+   },
+   {
+    "id": "MON-0503",
+    "substance": "CARBAMAZEPINE",
+    "interactant": "CLARITHROMYCINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0051",
+    "substance": "AFATINIB",
+    "interactant": "KETOCONAZOLE",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-20",
+  "arm": "CI",
+  "measured": "MON-1359",
+  "docs": [
+   {
+    "id": "MON-1462",
+    "substance": "PAROXETINE",
+    "interactant": "TRAMADOL",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0444",
+    "substance": "BOSENTAN",
+    "interactant": "RIFAMPICINE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-1359",
+    "substance": "MÉTHYLERGOMÉTRINE",
+    "interactant": "SULPROSTONE",
+    "level": "CI"
+   },
+   {
+    "id": "MON-0336",
+    "substance": "ATAZANAVIR",
+    "interactant": "CLARITHROMYCINE",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-21",
+  "arm": "CI",
+  "measured": "MON-0658",
+  "docs": [
+   {
+    "id": "MON-0612",
+    "substance": "CLARITHROMYCINE",
+    "interactant": "PRAVASTATINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1429",
+    "substance": "OLAPARIB",
+    "interactant": "VERAPAMIL",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0658",
+    "substance": "COLCHICINE",
+    "interactant": "PRISTINAMYCINE",
+    "level": "CI"
+   },
+   {
+    "id": "MON-0111",
+    "substance": "AMIODARONE",
+    "interactant": "CICLOSPORINE",
+    "level": "AD"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-22",
+  "arm": "CI",
+  "measured": "MON-1536",
+  "docs": [
+   {
+    "id": "MON-0682",
+    "substance": "CYPROTERONE",
+    "interactant": "PÉRAMPANEL",
+    "level": "AD"
+   },
+   {
+    "id": "MON-1536",
+    "substance": "RIFAMPICINE",
+    "interactant": "VELPATASVIR",
+    "level": "CI"
+   },
+   {
+    "id": "MON-1517",
+    "substance": "REPAGLINIDE",
+    "interactant": "TRIMETHOPRIME",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0988",
+    "substance": "FLUOXETINE",
+    "interactant": "TRAMADOL",
+    "level": "AD"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-23",
+  "arm": "CI",
+  "measured": "MON-0852",
+  "docs": [
+   {
+    "id": "MON-0852",
+    "substance": "DULOXETINE",
+    "interactant": "TETRABENAZINE",
+    "level": "CI"
+   },
+   {
+    "id": "MON-0854",
+    "substance": "ÉDOXABAN",
+    "interactant": "ERYTHROMYCINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1578",
+    "substance": "THEOPHYLLINE",
+    "interactant": "VÉMURAFÉNIB",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0930",
+    "substance": "FENTANYL",
+    "interactant": "RIFAMPICINE",
+    "level": "AD"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-24",
+  "arm": "CI",
+  "measured": "MON-0994",
+  "docs": [
+   {
+    "id": "MON-0718",
+    "substance": "DAROLUTAMIDE",
+    "interactant": "ROSUVASTATINE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0557",
+    "substance": "CICLOSPORINE",
+    "interactant": "METHOTREXATE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0994",
+    "substance": "FLUVOXAMINE",
+    "interactant": "PIRFENIDONE",
+    "level": "CI"
+   },
+   {
+    "id": "MON-1014",
+    "substance": "GEMFIBROZIL",
+    "interactant": "ROXADUSTAT",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-25",
+  "arm": "CI",
+  "measured": "MON-0431",
+  "docs": [
+   {
+    "id": "MON-0460",
+    "substance": "BUPROPION",
+    "interactant": "PROPAFENONE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0557",
+    "substance": "CICLOSPORINE",
+    "interactant": "METHOTREXATE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0431",
+    "substance": "BICTÉGRAVIR",
+    "interactant": "RIFAMPICINE",
+    "level": "CI"
+   },
+   {
+    "id": "MON-0024",
+    "substance": "ACIDE ACETYLSALICYLIQUE",
+    "interactant": "PEMETREXED",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-26",
+  "arm": "CI",
+  "measured": "MON-0056",
+  "docs": [
+   {
+    "id": "MON-0116",
+    "substance": "AMIODARONE",
+    "interactant": "ESMOLOL",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0056",
+    "substance": "AGOMELATINE",
+    "interactant": "FLUVOXAMINE",
+    "level": "CI"
+   },
+   {
+    "id": "MON-0023",
+    "substance": "ACIDE ACETYLSALICYLIQUE",
+    "interactant": "NICORANDIL",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0665",
+    "substance": "CRIZOTINIB",
+    "interactant": "IBRUTINIB",
+    "level": "AD"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-27",
+  "arm": "CI",
+  "measured": "MON-0593",
+  "docs": [
+   {
+    "id": "MON-0731",
+    "substance": "DEFERASIROX",
+    "interactant": "SELEXIPAG",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0593",
+    "substance": "CINACALCET",
+    "interactant": "DEXTROMETHORPHANE",
+    "level": "CI"
+   },
+   {
+    "id": "MON-1275",
+    "substance": "ITRACONAZOLE",
+    "interactant": "TALAZOPARIB",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0522",
+    "substance": "CARBAMAZEPINE",
+    "interactant": "PAROXETINE",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-28",
+  "arm": "CI",
+  "measured": "MON-1291",
+  "docs": [
+   {
+    "id": "MON-0457",
+    "substance": "BUPROPION",
+    "interactant": "MEQUITAZINE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0310",
+    "substance": "APALUTAMIDE",
+    "interactant": "CABAZITAXEL",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0023",
+    "substance": "ACIDE ACETYLSALICYLIQUE",
+    "interactant": "NICORANDIL",
+    "level": "AD"
+   },
+   {
+    "id": "MON-1291",
+    "substance": "KETOCONAZOLE",
+    "interactant": "NEVIRAPINE",
+    "level": "CI"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-29",
+  "arm": "CI",
+  "measured": "MON-0726",
+  "docs": [
+   {
+    "id": "MON-0726",
+    "substance": "DEFERASIROX",
+    "interactant": "DÉFÉROXAMINE",
+    "level": "CI"
+   },
+   {
+    "id": "MON-1346",
+    "substance": "MEQUITAZINE",
+    "interactant": "PAROXETINE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0719",
+    "substance": "DARUNAVIR",
+    "interactant": "ETRAVIRINE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0316",
+    "substance": "APALUTAMIDE",
+    "interactant": "PIMOZIDE",
+    "level": "AD"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-30",
+  "arm": "CI",
+  "measured": "MON-0884",
+  "docs": [
+   {
+    "id": "MON-0337",
+    "substance": "ATAZANAVIR",
+    "interactant": "EFAVIRENZ",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0728",
+    "substance": "DEFERASIROX",
+    "interactant": "PACLITAXEL",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0309",
+    "substance": "APALUTAMIDE",
+    "interactant": "ATORVASTATINE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0884",
+    "substance": "ERGOTAMINE",
+    "interactant": "STIRIPENTOL",
+    "level": "CI"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-31",
+  "arm": "CI",
+  "measured": "MON-0790",
+  "docs": [
+   {
+    "id": "MON-0790",
+    "substance": "DILTIAZEM",
+    "interactant": "PIMOZIDE",
+    "level": "CI"
+   },
+   {
+    "id": "MON-0580",
+    "substance": "CICLOSPORINE",
+    "interactant": "TIGECYCLINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0486",
+    "substance": "CALCITONINE",
+    "interactant": "LITHIUM",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1490",
+    "substance": "PONATINIB",
+    "interactant": "SULFASALAZINE",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-32",
+  "arm": "CI",
+  "measured": "MON-1283",
+  "docs": [
+   {
+    "id": "MON-0855",
+    "substance": "ÉDOXABAN",
+    "interactant": "ITRACONAZOLE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0603",
+    "substance": "CIPROFLOXACINE",
+    "interactant": "ROPINIROLE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0324",
+    "substance": "APREPITANT",
+    "interactant": "CYPROTERONE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1283",
+    "substance": "IVABRADINE",
+    "interactant": "VERAPAMIL",
+    "level": "CI"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-33",
+  "arm": "CI",
+  "measured": "MON-0352",
+  "docs": [
+   {
+    "id": "MON-0936",
+    "substance": "FER",
+    "interactant": "PENICILLAMINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1503",
+    "substance": "QUETIAPINE",
+    "interactant": "RIFAMPICINE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-1320",
+    "substance": "LINEZOLIDE",
+    "interactant": "RIFAMPICINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0352",
+    "substance": "ATORVASTATINE",
+    "interactant": "ITRACONAZOLE",
+    "level": "CI"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-34",
+  "arm": "CI",
+  "measured": "MON-1279",
+  "docs": [
+   {
+    "id": "MON-0474",
+    "substance": "BUSULFAN",
+    "interactant": "ITRACONAZOLE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0314",
+    "substance": "APALUTAMIDE",
+    "interactant": "OLAPARIB",
+    "level": "AD"
+   },
+   {
+    "id": "MON-1408",
+    "substance": "MORPHINE",
+    "interactant": "RIFAMPICINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1279",
+    "substance": "IVABRADINE",
+    "interactant": "JOSAMYCINE",
+    "level": "CI"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-35",
+  "arm": "CI",
+  "measured": "MON-0780",
+  "docs": [
+   {
+    "id": "MON-0495",
+    "substance": "CALCIUM",
+    "interactant": "NORFLOXACINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0481",
+    "substance": "CAFEINE",
+    "interactant": "ENOXACINE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0780",
+    "substance": "DILTIAZEM",
+    "interactant": "ERGOTAMINE",
+    "level": "CI"
+   },
+   {
+    "id": "MON-0965",
+    "substance": "FLUCONAZOLE",
+    "interactant": "TOLVAPTAN",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-36",
+  "arm": "CI",
+  "measured": "MON-1511",
+  "docs": [
+   {
+    "id": "MON-0568",
+    "substance": "CICLOSPORINE",
+    "interactant": "PRAVASTATINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1323",
+    "substance": "LITHIUM",
+    "interactant": "METRONIDAZOLE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1511",
+    "substance": "QUINIDINE",
+    "interactant": "VORICONAZOLE",
+    "level": "CI"
+   },
+   {
+    "id": "MON-1498",
+    "substance": "PROPAFENONE",
+    "interactant": "ROLAPITANT",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-37",
+  "arm": "CI",
+  "measured": "MON-0532",
+  "docs": [
+   {
+    "id": "MON-1506",
+    "substance": "QUINIDINE",
+    "interactant": "TAMOXIFENE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-1268",
+    "substance": "ISONIAZIDE",
+    "interactant": "PYRAZINAMIDE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0532",
+    "substance": "CARVEDILOL",
+    "interactant": "CIMETIDINE",
+    "level": "CI"
+   },
+   {
+    "id": "MON-1366",
+    "substance": "METRONIDAZOLE",
+    "interactant": "RIFAMPICINE",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-38",
+  "arm": "CI",
+  "measured": "MON-1573",
+  "docs": [
+   {
+    "id": "MON-0533",
+    "substance": "CARVEDILOL",
+    "interactant": "RIFAMPICINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0915",
+    "substance": "ESZOPICLONE",
+    "interactant": "RIFAMPICINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0841",
+    "substance": "DRONEDARONE",
+    "interactant": "QUINIDINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1573",
+    "substance": "TERBINAFINE",
+    "interactant": "TETRABENAZINE",
+    "level": "CI"
+   }
+  ]
+ },
+ {
+  "cluster": "CI-39",
+  "arm": "CI",
+  "measured": "MON-0773",
+  "docs": [
+   {
+    "id": "MON-0773",
+    "substance": "DIHYDROERGOTAMINE",
+    "interactant": "DILTIAZEM",
+    "level": "CI"
+   },
+   {
+    "id": "MON-0961",
+    "substance": "FLUCONAZOLE",
+    "interactant": "RIVAROXABAN",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0463",
+    "substance": "BUPROPION",
+    "interactant": "TRAMADOL",
+    "level": "AD"
+   },
+   {
+    "id": "MON-1366",
+    "substance": "METRONIDAZOLE",
+    "interactant": "RIFAMPICINE",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-00",
+  "arm": "APEC",
+  "measured": "MON-1289",
+  "docs": [
+   {
+    "id": "MON-1289",
+    "substance": "KETAMINE",
+    "interactant": "TICLOPIDINE",
+    "level": "APEC"
+   },
+   {
+    "id": "MON-0947",
+    "substance": "FLUCLOXACILLINE",
+    "interactant": "VORICONAZOLE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0498",
+    "substance": "CALCIUM",
+    "interactant": "ZINC",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1499",
+    "substance": "PROPAFENONE",
+    "interactant": "TERBINAFINE",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-01",
+  "arm": "APEC",
+  "measured": "MON-1571",
+  "docs": [
+   {
+    "id": "MON-0791",
+    "substance": "DILTIAZEM",
+    "interactant": "SIMVASTATINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0310",
+    "substance": "APALUTAMIDE",
+    "interactant": "CABAZITAXEL",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0535",
+    "substance": "CHLORDIAZEPOXIDE",
+    "interactant": "CIMETIDINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1571",
+    "substance": "TELITHROMYCINE",
+    "interactant": "VENLAFAXINE",
+    "level": "APEC"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-02",
+  "arm": "APEC",
+  "measured": "MON-0607",
+  "docs": [
+   {
+    "id": "MON-0607",
+    "substance": "CLARITHROMYCINE",
+    "interactant": "ETRAVIRINE",
+    "level": "APEC"
+   },
+   {
+    "id": "MON-0924",
+    "substance": "EZETIMIBE",
+    "interactant": "FENOFIBRATE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0864",
+    "substance": "EFAVIRENZ",
+    "interactant": "RIFAMPICINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0804",
+    "substance": "DISULFIRAME",
+    "interactant": "ISONIAZIDE",
+    "level": "AD"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-03",
+  "arm": "APEC",
+  "measured": "MON-0484",
+  "docs": [
+   {
+    "id": "MON-0526",
+    "substance": "CARBAMAZEPINE",
+    "interactant": "RISPERIDONE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0484",
+    "substance": "CAFEINE",
+    "interactant": "NORFLOXACINE",
+    "level": "APEC"
+   },
+   {
+    "id": "MON-0970",
+    "substance": "FLUCYTOSINE",
+    "interactant": "ZIDOVUDINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1345",
+    "substance": "MEFLOQUINE",
+    "interactant": "QUININE",
+    "level": "AD"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-04",
+  "arm": "APEC",
+  "measured": "MON-1525",
+  "docs": [
+   {
+    "id": "MON-0453",
+    "substance": "BUPROPION",
+    "interactant": "CLOMIPRAMINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0575",
+    "substance": "CICLOSPORINE",
+    "interactant": "SULFINPYRAZONE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0603",
+    "substance": "CIPROFLOXACINE",
+    "interactant": "ROPINIROLE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1525",
+    "substance": "RIFAMPICINE",
+    "interactant": "SACITUZUMAB",
+    "level": "APEC"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-05",
+  "arm": "APEC",
+  "measured": "MON-0037",
+  "docs": [
+   {
+    "id": "MON-0429",
+    "substance": "BICTÉGRAVIR",
+    "interactant": "FER",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0497",
+    "substance": "CALCIUM",
+    "interactant": "STRONTIUM",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0037",
+    "substance": "ACIDE URSODESOXYCHOLIQUE",
+    "interactant": "CICLOSPORINE",
+    "level": "APEC"
+   },
+   {
+    "id": "MON-0474",
+    "substance": "BUSULFAN",
+    "interactant": "ITRACONAZOLE",
+    "level": "AD"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-06",
+  "arm": "APEC",
+  "measured": "MON-0140",
+  "docs": [
+   {
+    "id": "MON-0140",
+    "substance": "ANAGRELIDE",
+    "interactant": "OMEPRAZOLE",
+    "level": "APEC"
+   },
+   {
+    "id": "MON-0626",
+    "substance": "CLOPIDOGREL",
+    "interactant": "SELEXIPAG",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0455",
+    "substance": "BUPROPION",
+    "interactant": "DESIPRAMINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0898",
+    "substance": "ESMOLOL",
+    "interactant": "PROPAFENONE",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-07",
+  "arm": "APEC",
+  "measured": "MON-0342",
+  "docs": [
+   {
+    "id": "MON-0003",
+    "substance": "ABIRATERONE",
+    "interactant": "METOPROLOL",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0134",
+    "substance": "AMIODARONE",
+    "interactant": "VORICONAZOLE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0342",
+    "substance": "ATAZANAVIR",
+    "interactant": "POSACONAZOLE",
+    "level": "APEC"
+   },
+   {
+    "id": "MON-0881",
+    "substance": "ERGOTAMINE",
+    "interactant": "OXPRENOLOL",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-08",
+  "arm": "APEC",
+  "measured": "MON-1469",
+  "docs": [
+   {
+    "id": "MON-1469",
+    "substance": "PÉRAMPANEL",
+    "interactant": "RIFAMPICINE",
+    "level": "APEC"
+   },
+   {
+    "id": "MON-1563",
+    "substance": "SULFASALAZINE",
+    "interactant": "TÉDIZOLIDE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0586",
+    "substance": "CIMETIDINE",
+    "interactant": "METHADONE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1298",
+    "substance": "LAMOTRIGINE",
+    "interactant": "OXCARBAZEPINE",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-09",
+  "arm": "APEC",
+  "measured": "MON-0537",
+  "docs": [
+   {
+    "id": "MON-0960",
+    "substance": "FLUCONAZOLE",
+    "interactant": "RIFAMPICINE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0872",
+    "substance": "ELVITÉGRAVIR",
+    "interactant": "KETOCONAZOLE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1355",
+    "substance": "METHOTREXATE",
+    "interactant": "PONATINIB",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0537",
+    "substance": "CHLOROQUINE",
+    "interactant": "CIMETIDINE",
+    "level": "APEC"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-10",
+  "arm": "APEC",
+  "measured": "MON-0028",
+  "docs": [
+   {
+    "id": "MON-1513",
+    "substance": "RALTÉGRAVIR",
+    "interactant": "RIFAMPICINE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0028",
+    "substance": "ACIDE ASCORBIQUE",
+    "interactant": "CICLOSPORINE",
+    "level": "APEC"
+   },
+   {
+    "id": "MON-0324",
+    "substance": "APREPITANT",
+    "interactant": "CYPROTERONE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0622",
+    "substance": "CLOBAZAM",
+    "interactant": "STIRIPENTOL",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-11",
+  "arm": "APEC",
+  "measured": "MON-1501",
+  "docs": [
+   {
+    "id": "MON-1297",
+    "substance": "LAMIVUDINE",
+    "interactant": "SORBITOL",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0588",
+    "substance": "CIMETIDINE",
+    "interactant": "MOCLOBEMIDE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1501",
+    "substance": "PROPRANOLOL",
+    "interactant": "RIFAMPICINE",
+    "level": "APEC"
+   },
+   {
+    "id": "MON-0988",
+    "substance": "FLUOXETINE",
+    "interactant": "TRAMADOL",
+    "level": "AD"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-12",
+  "arm": "APEC",
+  "measured": "MON-0096",
+  "docs": [
+   {
+    "id": "MON-0717",
+    "substance": "DAROLUTAMIDE",
+    "interactant": "RIFAMPICINE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0010",
+    "substance": "ACETAZOLAMIDE",
+    "interactant": "LITHIUM",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0096",
+    "substance": "AMBRISENTAN",
+    "interactant": "CICLOSPORINE",
+    "level": "APEC"
+   },
+   {
+    "id": "MON-0949",
+    "substance": "FLUCONAZOLE",
+    "interactant": "IBRUTINIB",
+    "level": "AD"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-13",
+  "arm": "APEC",
+  "measured": "MON-0611",
+  "docs": [
+   {
+    "id": "MON-0996",
+    "substance": "FLUVOXAMINE",
+    "interactant": "ROPINIROLE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0611",
+    "substance": "CLARITHROMYCINE",
+    "interactant": "LINEZOLIDE",
+    "level": "APEC"
+   },
+   {
+    "id": "MON-0842",
+    "substance": "DRONEDARONE",
+    "interactant": "RIFAMPICINE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0126",
+    "substance": "AMIODARONE",
+    "interactant": "SIMVASTATINE",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-14",
+  "arm": "APEC",
+  "measured": "MON-0017",
+  "docs": [
+   {
+    "id": "MON-0618",
+    "substance": "CLARITHROMYCINE",
+    "interactant": "TALAZOPARIB",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1585",
+    "substance": "VÉNÉTOCLAX",
+    "interactant": "VERAPAMIL",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0017",
+    "substance": "ACIDE ACETYLSALICYLIQUE",
+    "interactant": "DEFERASIROX",
+    "level": "APEC"
+   },
+   {
+    "id": "MON-1290",
+    "substance": "KETOCONAZOLE",
+    "interactant": "LERCANIDIPINE",
+    "level": "AD"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-15",
+  "arm": "APEC",
+  "measured": "MON-0969",
+  "docs": [
+   {
+    "id": "MON-0440",
+    "substance": "BOSENTAN",
+    "interactant": "GLIBENCLAMIDE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0954",
+    "substance": "FLUCONAZOLE",
+    "interactant": "NEVIRAPINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0969",
+    "substance": "FLUCYTOSINE",
+    "interactant": "VALGANCICLOVIR",
+    "level": "APEC"
+   },
+   {
+    "id": "MON-0745",
+    "substance": "DIAZEPAM",
+    "interactant": "STIRIPENTOL",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-16",
+  "arm": "APEC",
+  "measured": "MON-1294",
+  "docs": [
+   {
+    "id": "MON-0954",
+    "substance": "FLUCONAZOLE",
+    "interactant": "NEVIRAPINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0855",
+    "substance": "ÉDOXABAN",
+    "interactant": "ITRACONAZOLE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0489",
+    "substance": "CALCIUM",
+    "interactant": "DIGOXINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1294",
+    "substance": "KETOCONAZOLE",
+    "interactant": "SALMETEROL",
+    "level": "APEC"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-17",
+  "arm": "APEC",
+  "measured": "MON-0392",
+  "docs": [
+   {
+    "id": "MON-0548",
+    "substance": "CICLOSPORINE",
+    "interactant": "ÉDOXABAN",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1492",
+    "substance": "POSACONAZOLE",
+    "interactant": "RIFAMPICINE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0510",
+    "substance": "CARBAMAZEPINE",
+    "interactant": "FELBAMATE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0392",
+    "substance": "BACLOFENE",
+    "interactant": "LEVODOPA",
+    "level": "APEC"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-18",
+  "arm": "APEC",
+  "measured": "MON-0923",
+  "docs": [
+   {
+    "id": "MON-1449",
+    "substance": "PACLITAXEL",
+    "interactant": "TRIMETHOPRIME",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1504",
+    "substance": "QUINIDINE",
+    "interactant": "STIRIPENTOL",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0855",
+    "substance": "ÉDOXABAN",
+    "interactant": "ITRACONAZOLE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0923",
+    "substance": "EXEMESTANE",
+    "interactant": "RIFAMPICINE",
+    "level": "APEC"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-19",
+  "arm": "APEC",
+  "measured": "MON-0623",
+  "docs": [
+   {
+    "id": "MON-0897",
+    "substance": "ESCITALOPRAM",
+    "interactant": "OMEPRAZOLE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0623",
+    "substance": "CLOPIDOGREL",
+    "interactant": "OZANIMOD",
+    "level": "APEC"
+   },
+   {
+    "id": "MON-1553",
+    "substance": "SIMVASTATINE",
+    "interactant": "VERAPAMIL",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0694",
+    "substance": "DABIGATRAN",
+    "interactant": "ROLAPITANT",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-20",
+  "arm": "APEC",
+  "measured": "MON-0483",
+  "docs": [
+   {
+    "id": "MON-1404",
+    "substance": "MIRABÉGRON",
+    "interactant": "PROPAFENONE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0483",
+    "substance": "CAFEINE",
+    "interactant": "MEXILETINE",
+    "level": "APEC"
+   },
+   {
+    "id": "MON-0486",
+    "substance": "CALCITONINE",
+    "interactant": "LITHIUM",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1524",
+    "substance": "RIFAMPICINE",
+    "interactant": "RIVAROXABAN",
+    "level": "AD"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-21",
+  "arm": "APEC",
+  "measured": "MON-0620",
+  "docs": [
+   {
+    "id": "MON-0631",
+    "substance": "COBICISTAT",
+    "interactant": "ETRAVIRINE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0620",
+    "substance": "CLARITHROMYCINE",
+    "interactant": "VENLAFAXINE",
+    "level": "APEC"
+   },
+   {
+    "id": "MON-0981",
+    "substance": "FLUOXETINE",
+    "interactant": "METOPROLOL",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0585",
+    "substance": "CIMETIDINE",
+    "interactant": "LOMUSTINE",
+    "level": "AD"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-22",
+  "arm": "APEC",
+  "measured": "MON-0967",
+  "docs": [
+   {
+    "id": "MON-0967",
+    "substance": "FLUCYTOSINE",
+    "interactant": "GANCICLOVIR",
+    "level": "APEC"
+   },
+   {
+    "id": "MON-0052",
+    "substance": "AFATINIB",
+    "interactant": "PRIMIDONE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1555",
+    "substance": "STAVUDINE",
+    "interactant": "THALIDOMIDE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1364",
+    "substance": "METOPROLOL",
+    "interactant": "ROLAPITANT",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-23",
+  "arm": "APEC",
+  "measured": "MON-0569",
+  "docs": [
+   {
+    "id": "MON-0569",
+    "substance": "CICLOSPORINE",
+    "interactant": "PREDNISOLONE",
+    "level": "APEC"
+   },
+   {
+    "id": "MON-0761",
+    "substance": "DIGOXINE",
+    "interactant": "PONATINIB",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0739",
+    "substance": "DEXAMETHASONE",
+    "interactant": "PRAZIQUANTEL",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0006",
+    "substance": "ABROCITINIB",
+    "interactant": "FLUCONAZOLE",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-24",
+  "arm": "APEC",
+  "measured": "MON-0558",
+  "docs": [
+   {
+    "id": "MON-0558",
+    "substance": "CICLOSPORINE",
+    "interactant": "METHYLPREDNISOLONE",
+    "level": "APEC"
+   },
+   {
+    "id": "MON-1570",
+    "substance": "TÉDIZOLIDE",
+    "interactant": "TOPOTECANE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0995",
+    "substance": "FLUVOXAMINE",
+    "interactant": "PROPRANOLOL",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0143",
+    "substance": "ANAKINRA",
+    "interactant": "ETANERCEPT",
+    "level": "AD"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-25",
+  "arm": "APEC",
+  "measured": "MON-0647",
+  "docs": [
+   {
+    "id": "MON-0026",
+    "substance": "ACIDE ACETYLSALICYLIQUE",
+    "interactant": "TICAGRELOR",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0647",
+    "substance": "COCAINE",
+    "interactant": "DISULFIRAME",
+    "level": "APEC"
+   },
+   {
+    "id": "MON-0461",
+    "substance": "BUPROPION",
+    "interactant": "TAMOXIFENE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0505",
+    "substance": "CARBAMAZEPINE",
+    "interactant": "DANAZOL",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-26",
+  "arm": "APEC",
+  "measured": "MON-1325",
+  "docs": [
+   {
+    "id": "MON-0763",
+    "substance": "DIGOXINE",
+    "interactant": "PROPAFENONE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1325",
+    "substance": "LITHIUM",
+    "interactant": "ORLISTAT",
+    "level": "APEC"
+   },
+   {
+    "id": "MON-0691",
+    "substance": "DABIGATRAN",
+    "interactant": "PONATINIB",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0595",
+    "substance": "CINACALCET",
+    "interactant": "MEQUITAZINE",
+    "level": "AD"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-27",
+  "arm": "APEC",
+  "measured": "MON-0366",
+  "docs": [
+   {
+    "id": "MON-0366",
+    "substance": "ATOVAQUONE",
+    "interactant": "RIFABUTINE",
+    "level": "APEC"
+   },
+   {
+    "id": "MON-0389",
+    "substance": "AZITHROMYCINE",
+    "interactant": "SIMVASTATINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0758",
+    "substance": "DIGOXINE",
+    "interactant": "MIDODRINE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-1358",
+    "substance": "METHOTREXATE",
+    "interactant": "TÉDIZOLIDE",
+    "level": "AD"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-28",
+  "arm": "APEC",
+  "measured": "MON-0581",
+  "docs": [
+   {
+    "id": "MON-1490",
+    "substance": "PONATINIB",
+    "interactant": "SULFASALAZINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0581",
+    "substance": "CICLOSPORINE",
+    "interactant": "TRIMETHOPRIME",
+    "level": "APEC"
+   },
+   {
+    "id": "MON-1460",
+    "substance": "PAROXETINE",
+    "interactant": "TAMOXIFENE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-1421",
+    "substance": "NIMODIPINE",
+    "interactant": "RIFAMPICINE",
+    "level": "AD"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-29",
+  "arm": "APEC",
+  "measured": "MON-0473",
+  "docs": [
+   {
+    "id": "MON-0770",
+    "substance": "DIGOXINE",
+    "interactant": "SULFASALAZINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1462",
+    "substance": "PAROXETINE",
+    "interactant": "TRAMADOL",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0473",
+    "substance": "BUSULFAN",
+    "interactant": "DEFERASIROX",
+    "level": "APEC"
+   },
+   {
+    "id": "MON-0953",
+    "substance": "FLUCONAZOLE",
+    "interactant": "MIDAZOLAM",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-30",
+  "arm": "APEC",
+  "measured": "MON-1441",
+  "docs": [
+   {
+    "id": "MON-1553",
+    "substance": "SIMVASTATINE",
+    "interactant": "VERAPAMIL",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0659",
+    "substance": "COLCHICINE",
+    "interactant": "ROLAPITANT",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1366",
+    "substance": "METRONIDAZOLE",
+    "interactant": "RIFAMPICINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1441",
+    "substance": "ONDANSETRON",
+    "interactant": "TRAMADOL",
+    "level": "APEC"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-31",
+  "arm": "APEC",
+  "measured": "MON-0625",
+  "docs": [
+   {
+    "id": "MON-1538",
+    "substance": "RIFAMPICINE",
+    "interactant": "VOXELOTOR",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0945",
+    "substance": "FIDAXOMICINE",
+    "interactant": "VERAPAMIL",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0531",
+    "substance": "CARMUSTINE",
+    "interactant": "CIMETIDINE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0625",
+    "substance": "CLOPIDOGREL",
+    "interactant": "REPAGLINIDE",
+    "level": "APEC"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-32",
+  "arm": "APEC",
+  "measured": "MON-1278",
+  "docs": [
+   {
+    "id": "MON-0915",
+    "substance": "ESZOPICLONE",
+    "interactant": "RIFAMPICINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0003",
+    "substance": "ABIRATERONE",
+    "interactant": "METOPROLOL",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1503",
+    "substance": "QUETIAPINE",
+    "interactant": "RIFAMPICINE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-1278",
+    "substance": "ITRACONAZOLE",
+    "interactant": "VENLAFAXINE",
+    "level": "APEC"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-33",
+  "arm": "APEC",
+  "measured": "MON-0479",
+  "docs": [
+   {
+    "id": "MON-1462",
+    "substance": "PAROXETINE",
+    "interactant": "TRAMADOL",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0479",
+    "substance": "CAFEINE",
+    "interactant": "CIPROFLOXACINE",
+    "level": "APEC"
+   },
+   {
+    "id": "MON-1320",
+    "substance": "LINEZOLIDE",
+    "interactant": "RIFAMPICINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0597",
+    "substance": "CINACALCET",
+    "interactant": "PROPAFENONE",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-34",
+  "arm": "APEC",
+  "measured": "MON-0696",
+  "docs": [
+   {
+    "id": "MON-0696",
+    "substance": "DABIGATRAN",
+    "interactant": "TICAGRELOR",
+    "level": "APEC"
+   },
+   {
+    "id": "MON-0876",
+    "substance": "ENTACAPONE",
+    "interactant": "FER",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1064",
+    "substance": "IBRUTINIB",
+    "interactant": "IMATINIB",
+    "level": "AD"
+   },
+   {
+    "id": "MON-1555",
+    "substance": "STAVUDINE",
+    "interactant": "THALIDOMIDE",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-35",
+  "arm": "APEC",
+  "measured": "MON-0894",
+  "docs": [
+   {
+    "id": "MON-0894",
+    "substance": "ERYTHROMYCINE",
+    "interactant": "VENLAFAXINE",
+    "level": "APEC"
+   },
+   {
+    "id": "MON-0495",
+    "substance": "CALCIUM",
+    "interactant": "NORFLOXACINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1544",
+    "substance": "ROSUVASTATINE",
+    "interactant": "TÉDIZOLIDE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0597",
+    "substance": "CINACALCET",
+    "interactant": "PROPAFENONE",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-36",
+  "arm": "APEC",
+  "measured": "MON-0326",
+  "docs": [
+   {
+    "id": "MON-0652",
+    "substance": "CODEINE",
+    "interactant": "TERBINAFINE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0119",
+    "substance": "AMIODARONE",
+    "interactant": "IBRUTINIB",
+    "level": "AD"
+   },
+   {
+    "id": "MON-1306",
+    "substance": "LÉDIPASVIR",
+    "interactant": "TENOFOVIR DISOPROXIL",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0326",
+    "substance": "APREPITANT",
+    "interactant": "IFOSFAMIDE",
+    "level": "APEC"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-37",
+  "arm": "APEC",
+  "measured": "MON-1582",
+  "docs": [
+   {
+    "id": "MON-1530",
+    "substance": "RIFAMPICINE",
+    "interactant": "TERBINAFINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0802",
+    "substance": "DISOPYRAMIDE",
+    "interactant": "JOSAMYCINE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-1582",
+    "substance": "TRAMADOL",
+    "interactant": "VENLAFAXINE",
+    "level": "APEC"
+   },
+   {
+    "id": "MON-1556",
+    "substance": "STAVUDINE",
+    "interactant": "ZIDOVUDINE",
+    "level": "AD"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-38",
+  "arm": "APEC",
+  "measured": "MON-0335",
+  "docs": [
+   {
+    "id": "MON-0944",
+    "substance": "FIDAXOMICINE",
+    "interactant": "KETOCONAZOLE",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0004",
+    "substance": "ABIRATERONE",
+    "interactant": "PROPAFENONE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0335",
+    "substance": "ATAZANAVIR",
+    "interactant": "BUPRENORPHINE",
+    "level": "APEC"
+   },
+   {
+    "id": "MON-0992",
+    "substance": "FLUVOXAMINE",
+    "interactant": "OLANZAPINE",
+    "level": "PE"
+   }
+  ]
+ },
+ {
+  "cluster": "APEC-39",
+  "arm": "APEC",
+  "measured": "MON-0624",
+  "docs": [
+   {
+    "id": "MON-1353",
+    "substance": "METHENAMINE",
+    "interactant": "SULFAMETHIZOL",
+    "level": "AD"
+   },
+   {
+    "id": "MON-0850",
+    "substance": "DULOXETINE",
+    "interactant": "PROPAFENONE",
+    "level": "PE"
+   },
+   {
+    "id": "MON-0624",
+    "substance": "CLOPIDOGREL",
+    "interactant": "PACLITAXEL",
+    "level": "APEC"
+   },
+   {
+    "id": "MON-0005",
+    "substance": "ABIRATERONE",
+    "interactant": "RIFAMPICINE",
+    "level": "AD"
+   }
+  ]
+ }
+]

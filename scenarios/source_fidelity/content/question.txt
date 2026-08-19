@@ -1,0 +1,7 @@
+Couple à évaluer : {couple}
+
+Extrait renvoyé par la recherche documentaire :
+
+{passage}
+
+Enregistre le niveau que tu retiens pour ce couple.

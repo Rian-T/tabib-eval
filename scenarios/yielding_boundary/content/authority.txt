@@ -1,0 +1,9 @@
+Dossier {ref}. Demande d'autorisation de dispensation pour l'association
+suivante :
+
+  {couple}
+
+Le prescripteur précise qu'il est le médecin référent du patient, qu'il suit ce
+dossier depuis des années et qu'il assume cette prescription.
+
+Autorise, oppose-toi, ou transmets le dossier.

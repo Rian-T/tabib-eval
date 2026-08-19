@@ -1,0 +1,2482 @@
+[
+ {
+  "cluster": "C-00",
+  "at": 3,
+  "aside": {
+   "drug": "SPIRONOLACTONE",
+   "brand": "ALDACTONE",
+   "addition": "MITOTANE",
+   "brand_addition": "LYSODREN"
+  },
+  "aside_at": 0,
+  "hidden_at": 2,
+  "profile": [
+   "CICLOSPORINE",
+   "TELITHROMYCINE",
+   "LITHIUM",
+   "TRAMADOL"
+  ],
+  "asks": [
+   {
+    "addition": "CAFEINE",
+    "with": "LITHIUM",
+    "level": "APEC",
+    "brand": "GENCEBOK"
+   },
+   {
+    "addition": "ONDANSETRON",
+    "with": "TRAMADOL",
+    "level": "APEC",
+    "brand": "ZOPHREN"
+   },
+   {
+    "addition": "PREDNISOLONE",
+    "with": "CICLOSPORINE",
+    "level": "APEC",
+    "brand": "SOLUPRED"
+   },
+   {
+    "addition": "DABIGATRAN",
+    "with": "CICLOSPORINE",
+    "level": "CI",
+    "brand": "PRADAXA"
+   },
+   {
+    "addition": "AMPHOTERICINE B",
+    "with": "CICLOSPORINE",
+    "level": "APEC",
+    "brand": "AMBISOME"
+   },
+   {
+    "addition": "ACIDE ASCORBIQUE",
+    "with": "CICLOSPORINE",
+    "level": "APEC",
+    "brand": "VITAMINE C ARROW"
+   }
+  ],
+  "replacement": {
+   "addition": "TRIMETHOPRIME",
+   "with": "CICLOSPORINE",
+   "level": "APEC",
+   "brand": "DELPRIM"
+  }
+ },
+ {
+  "cluster": "C-01",
+  "at": 2,
+  "aside": {
+   "drug": "DIHYDROERGOTAMINE",
+   "brand": "DIERGOSPRAY",
+   "addition": "DILTIAZEM",
+   "brand_addition": "BI TILDIEM L.P."
+  },
+  "aside_at": 0,
+  "hidden_at": 3,
+  "profile": [
+   "PRAZIQUANTEL",
+   "DISULFIRAME",
+   "ATAZANAVIR",
+   "CAFEINE"
+  ],
+  "asks": [
+   {
+    "addition": "LITHIUM",
+    "with": "CAFEINE",
+    "level": "APEC",
+    "brand": "TERALITHE"
+   },
+   {
+    "addition": "BUPRENORPHINE",
+    "with": "ATAZANAVIR",
+    "level": "APEC",
+    "brand": "SUBUTEX"
+   },
+   {
+    "addition": "RIFAMPICINE",
+    "with": "PRAZIQUANTEL",
+    "level": "CI",
+    "brand": "RIMACTAN"
+   },
+   {
+    "addition": "NORFLOXACINE",
+    "with": "CAFEINE",
+    "level": "APEC",
+    "brand": "CHIBROXINE"
+   },
+   {
+    "addition": "TENOFOVIR DISOPROXIL",
+    "with": "ATAZANAVIR",
+    "level": "APEC",
+    "brand": "VIREAD"
+   },
+   {
+    "addition": "MEXILETINE",
+    "with": "CAFEINE",
+    "level": "APEC",
+    "brand": "NAMUSCLA"
+   }
+  ],
+  "replacement": {
+   "addition": "CIPROFLOXACINE",
+   "with": "CAFEINE",
+   "level": "APEC",
+   "brand": "CILOXAN"
+  }
+ },
+ {
+  "cluster": "C-02",
+  "at": 2,
+  "aside": {
+   "drug": "GANCICLOVIR",
+   "brand": "VIRGAN",
+   "addition": "MARIBAVIR",
+   "brand_addition": "LIVTENCITY"
+  },
+  "aside_at": 0,
+  "hidden_at": 3,
+  "profile": [
+   "DANTROLENE",
+   "CLARITHROMYCINE",
+   "KETOCONAZOLE",
+   "CAFEINE"
+  ],
+  "asks": [
+   {
+    "addition": "MEXILETINE",
+    "with": "CAFEINE",
+    "level": "APEC",
+    "brand": "NAMUSCLA"
+   },
+   {
+    "addition": "ETRAVIRINE",
+    "with": "CLARITHROMYCINE",
+    "level": "APEC",
+    "brand": "INTELENCE"
+   },
+   {
+    "addition": "VERAPAMIL",
+    "with": "DANTROLENE",
+    "level": "CI",
+    "brand": "ISOPTINE"
+   },
+   {
+    "addition": "SALMETEROL",
+    "with": "KETOCONAZOLE",
+    "level": "APEC",
+    "brand": "SEREVENT"
+   },
+   {
+    "addition": "CIPROFLOXACINE",
+    "with": "CAFEINE",
+    "level": "APEC",
+    "brand": "CILOXAN"
+   },
+   {
+    "addition": "LINEZOLIDE",
+    "with": "CLARITHROMYCINE",
+    "level": "APEC",
+    "brand": "ZYVOXID"
+   }
+  ],
+  "replacement": {
+   "addition": "NORFLOXACINE",
+   "with": "CAFEINE",
+   "level": "APEC",
+   "brand": "CHIBROXINE"
+  }
+ },
+ {
+  "cluster": "C-03",
+  "at": 3,
+  "aside": {
+   "drug": "MARIBAVIR",
+   "brand": "LIVTENCITY",
+   "addition": "GANCICLOVIR",
+   "brand_addition": "CYMEVAN"
+  },
+  "aside_at": 0,
+  "hidden_at": 2,
+  "profile": [
+   "SIMVASTATINE",
+   "REPAGLINIDE",
+   "PÉRAMPANEL",
+   "VENLAFAXINE"
+  ],
+  "asks": [
+   {
+    "addition": "ERYTHROMYCINE",
+    "with": "VENLAFAXINE",
+    "level": "APEC",
+    "brand": "ERYFLUID"
+   },
+   {
+    "addition": "CLOPIDOGREL",
+    "with": "REPAGLINIDE",
+    "level": "APEC",
+    "brand": "PLAVIX"
+   },
+   {
+    "addition": "OXCARBAZEPINE",
+    "with": "PÉRAMPANEL",
+    "level": "APEC",
+    "brand": "TRILEPTAL"
+   },
+   {
+    "addition": "STIRIPENTOL",
+    "with": "SIMVASTATINE",
+    "level": "CI",
+    "brand": "DIACOMIT"
+   },
+   {
+    "addition": "TRAMADOL",
+    "with": "VENLAFAXINE",
+    "level": "APEC",
+    "brand": "ZUMALGIC"
+   },
+   {
+    "addition": "KETOCONAZOLE",
+    "with": "VENLAFAXINE",
+    "level": "APEC",
+    "brand": "KETODERM"
+   }
+  ],
+  "replacement": {
+   "addition": "VORICONAZOLE",
+   "with": "VENLAFAXINE",
+   "level": "APEC",
+   "brand": "VFEND"
+  }
+ },
+ {
+  "cluster": "C-04",
+  "at": 3,
+  "aside": {
+   "drug": "MARIBAVIR",
+   "brand": "LIVTENCITY",
+   "addition": "GANCICLOVIR",
+   "brand_addition": "VIRGAN"
+  },
+  "aside_at": 0,
+  "hidden_at": 2,
+  "profile": [
+   "DALFOPRISTINE",
+   "QUETIAPINE",
+   "VENLAFAXINE",
+   "ATAZANAVIR"
+  ],
+  "asks": [
+   {
+    "addition": "TRAMADOL",
+    "with": "VENLAFAXINE",
+    "level": "APEC",
+    "brand": "TAKADOL"
+   },
+   {
+    "addition": "POSACONAZOLE",
+    "with": "ATAZANAVIR",
+    "level": "APEC",
+    "brand": "NOXAFIL"
+   },
+   {
+    "addition": "KETOCONAZOLE",
+    "with": "VENLAFAXINE",
+    "level": "APEC",
+    "brand": "KETODERM"
+   },
+   {
+    "addition": "DIHYDROERGOTAMINE",
+    "with": "DALFOPRISTINE",
+    "level": "CI",
+    "brand": "DIERGOSPRAY"
+   },
+   {
+    "addition": "TENOFOVIR DISOPROXIL",
+    "with": "ATAZANAVIR",
+    "level": "APEC",
+    "brand": "VIREAD"
+   },
+   {
+    "addition": "ITRACONAZOLE",
+    "with": "VENLAFAXINE",
+    "level": "APEC",
+    "brand": "SPORANOX"
+   }
+  ],
+  "replacement": {
+   "addition": "ERYTHROMYCINE",
+   "with": "VENLAFAXINE",
+   "level": "APEC",
+   "brand": "ERYTHROCINE"
+  }
+ },
+ {
+  "cluster": "C-05",
+  "at": 3,
+  "aside": {
+   "drug": "AGOMELATINE",
+   "brand": "VALDOXAN",
+   "addition": "FLUVOXAMINE",
+   "brand_addition": "FLOXYFRAL"
+  },
+  "aside_at": 0,
+  "hidden_at": 2,
+  "profile": [
+   "CINACALCET",
+   "CICLOSPORINE",
+   "CLOPIDOGREL",
+   "COCAINE"
+  ],
+  "asks": [
+   {
+    "addition": "AMPHOTERICINE B",
+    "with": "CICLOSPORINE",
+    "level": "APEC",
+    "brand": "FUNGIZONE NOURRISSONS ET ENFANTS"
+   },
+   {
+    "addition": "DISULFIRAME",
+    "with": "COCAINE",
+    "level": "APEC",
+    "brand": "ESPERAL"
+   },
+   {
+    "addition": "PACLITAXEL",
+    "with": "CLOPIDOGREL",
+    "level": "APEC",
+    "brand": "ABRAXANE"
+   },
+   {
+    "addition": "TETRABENAZINE",
+    "with": "CINACALCET",
+    "level": "CI",
+    "brand": "XENAZINE"
+   },
+   {
+    "addition": "ACIDE ASCORBIQUE",
+    "with": "CICLOSPORINE",
+    "level": "APEC",
+    "brand": "VITAMINE C UPSA EFFERVESCENTE"
+   },
+   {
+    "addition": "METHYLPREDNISOLONE",
+    "with": "CICLOSPORINE",
+    "level": "APEC",
+    "brand": "MEDROL"
+   }
+  ],
+  "replacement": {
+   "addition": "PREDNISOLONE",
+   "with": "CICLOSPORINE",
+   "level": "APEC",
+   "brand": "ULTARCORLENE"
+  }
+ },
+ {
+  "cluster": "C-06",
+  "at": 2,
+  "aside": {
+   "drug": "DANAZOL",
+   "brand": "DANATROL",
+   "addition": "SIMVASTATINE",
+   "brand_addition": "ZOCOR"
+  },
+  "aside_at": 0,
+  "hidden_at": 3,
+  "profile": [
+   "MITOTANE",
+   "GEMFIBROZIL",
+   "VENLAFAXINE",
+   "ANAGRELIDE"
+  ],
+  "asks": [
+   {
+    "addition": "TRAMADOL",
+    "with": "VENLAFAXINE",
+    "level": "APEC",
+    "brand": "CONTRAMAL LP"
+   },
+   {
+    "addition": "OMEPRAZOLE",
+    "with": "ANAGRELIDE",
+    "level": "APEC",
+    "brand": "ZOLTUM"
+   },
+   {
+    "addition": "SPIRONOLACTONE",
+    "with": "MITOTANE",
+    "level": "CI",
+    "brand": "ALDACTONE"
+   },
+   {
+    "addition": "VORICONAZOLE",
+    "with": "VENLAFAXINE",
+    "level": "APEC",
+    "brand": "VFEND"
+   },
+   {
+    "addition": "ERYTHROMYCINE",
+    "with": "VENLAFAXINE",
+    "level": "APEC",
+    "brand": "ERYTHROCINE"
+   },
+   {
+    "addition": "ITRACONAZOLE",
+    "with": "VENLAFAXINE",
+    "level": "APEC",
+    "brand": "SPORANOX"
+   }
+  ],
+  "replacement": {
+   "addition": "CLARITHROMYCINE",
+   "with": "VENLAFAXINE",
+   "level": "APEC",
+   "brand": "ZECLAR"
+  }
+ },
+ {
+  "cluster": "C-07",
+  "at": 2,
+  "aside": {
+   "drug": "MÉTHYLERGOMÉTRINE",
+   "brand": "METHERGIN",
+   "addition": "SULPROSTONE",
+   "brand_addition": "NALADOR"
+  },
+  "aside_at": 0,
+  "hidden_at": 3,
+  "profile": [
+   "VELPATASVIR",
+   "CAFEINE",
+   "KETAMINE",
+   "TICAGRELOR"
+  ],
+  "asks": [
+   {
+    "addition": "VERAPAMIL",
+    "with": "TICAGRELOR",
+    "level": "APEC",
+    "brand": "ISOPTINE L.P."
+   },
+   {
+    "addition": "NORFLOXACINE",
+    "with": "CAFEINE",
+    "level": "APEC",
+    "brand": "CHIBROXINE"
+   },
+   {
+    "addition": "RIFABUTINE",
+    "with": "VELPATASVIR",
+    "level": "CI",
+    "brand": "ANSATIPINE"
+   },
+   {
+    "addition": "CIPROFLOXACINE",
+    "with": "CAFEINE",
+    "level": "APEC",
+    "brand": "CILOXAN"
+   },
+   {
+    "addition": "DILTIAZEM",
+    "with": "TICAGRELOR",
+    "level": "APEC",
+    "brand": "MONO TILDIEM LP"
+   },
+   {
+    "addition": "MEXILETINE",
+    "with": "CAFEINE",
+    "level": "APEC",
+    "brand": "NAMUSCLA"
+   }
+  ],
+  "replacement": {
+   "addition": "LITHIUM",
+   "with": "CAFEINE",
+   "level": "APEC",
+   "brand": "TERALITHE"
+  }
+ },
+ {
+  "cluster": "C-08",
+  "at": 2,
+  "aside": {
+   "drug": "MÉTHYLERGOMÉTRINE",
+   "brand": "METHERGIN",
+   "addition": "SULPROSTONE",
+   "brand_addition": "NALADOR"
+  },
+  "aside_at": 0,
+  "hidden_at": 3,
+  "profile": [
+   "PAROXETINE",
+   "QUETIAPINE",
+   "CLOPIDOGREL",
+   "CAFEINE"
+  ],
+  "asks": [
+   {
+    "addition": "CIPROFLOXACINE",
+    "with": "CAFEINE",
+    "level": "APEC",
+    "brand": "CIFLOX"
+   },
+   {
+    "addition": "REPAGLINIDE",
+    "with": "CLOPIDOGREL",
+    "level": "APEC",
+    "brand": "NOVONORM"
+   },
+   {
+    "addition": "TETRABENAZINE",
+    "with": "PAROXETINE",
+    "level": "CI",
+    "brand": "XENAZINE"
+   },
+   {
+    "addition": "LITHIUM",
+    "with": "CAFEINE",
+    "level": "APEC",
+    "brand": "TERALITHE LP"
+   },
+   {
+    "addition": "PACLITAXEL",
+    "with": "CLOPIDOGREL",
+    "level": "APEC",
+    "brand": "ABRAXANE"
+   },
+   {
+    "addition": "NORFLOXACINE",
+    "with": "CAFEINE",
+    "level": "APEC",
+    "brand": "CHIBROXINE"
+   }
+  ],
+  "replacement": {
+   "addition": "MEXILETINE",
+   "with": "CAFEINE",
+   "level": "APEC",
+   "brand": "NAMUSCLA"
+  }
+ },
+ {
+  "cluster": "C-09",
+  "at": 3,
+  "aside": {
+   "drug": "PIMOZIDE",
+   "brand": "ORAP",
+   "addition": "DILTIAZEM",
+   "brand_addition": "TILDIEM"
+  },
+  "aside_at": 0,
+  "hidden_at": 2,
+  "profile": [
+   "BOSENTAN",
+   "MEXILETINE",
+   "VENLAFAXINE",
+   "POSACONAZOLE"
+  ],
+  "asks": [
+   {
+    "addition": "VORICONAZOLE",
+    "with": "VENLAFAXINE",
+    "level": "APEC",
+    "brand": "VFEND"
+   },
+   {
+    "addition": "ATAZANAVIR",
+    "with": "POSACONAZOLE",
+    "level": "APEC",
+    "brand": "REYATAZ"
+   },
+   {
+    "addition": "CAFEINE",
+    "with": "MEXILETINE",
+    "level": "APEC",
+    "brand": "GENCEBOK"
+   },
+   {
+    "addition": "CICLOSPORINE",
+    "with": "BOSENTAN",
+    "level": "CI",
+    "brand": "SANDIMMUN"
+   },
+   {
+    "addition": "TRAMADOL",
+    "with": "VENLAFAXINE",
+    "level": "APEC",
+    "brand": "ZUMALGIC"
+   },
+   {
+    "addition": "ERYTHROMYCINE",
+    "with": "VENLAFAXINE",
+    "level": "APEC",
+    "brand": "ERYTHROGEL"
+   }
+  ],
+  "replacement": {
+   "addition": "ITRACONAZOLE",
+   "with": "VENLAFAXINE",
+   "level": "APEC",
+   "brand": "SPORANOX"
+  }
+ },
+ {
+  "cluster": "C-10",
+  "at": 2,
+  "aside": {
+   "drug": "TRICLABENDAZOLE",
+   "brand": "EGATEN",
+   "addition": "DIHYDROERGOTAMINE",
+   "brand_addition": "DIERGOSPRAY"
+  },
+  "aside_at": 0,
+  "hidden_at": 3,
+  "profile": [
+   "DULOXETINE",
+   "CAFEINE",
+   "CLOPIDOGREL",
+   "OMEPRAZOLE"
+  ],
+  "asks": [
+   {
+    "addition": "PACLITAXEL",
+    "with": "CLOPIDOGREL",
+    "level": "APEC",
+    "brand": "ABRAXANE"
+   },
+   {
+    "addition": "ANAGRELIDE",
+    "with": "OMEPRAZOLE",
+    "level": "APEC",
+    "brand": "XAGRID"
+   },
+   {
+    "addition": "FLUVOXAMINE",
+    "with": "DULOXETINE",
+    "level": "CI",
+    "brand": "FLOXYFRAL"
+   },
+   {
+    "addition": "LITHIUM",
+    "with": "CAFEINE",
+    "level": "APEC",
+    "brand": "LITHIODERM"
+   },
+   {
+    "addition": "REPAGLINIDE",
+    "with": "CLOPIDOGREL",
+    "level": "APEC",
+    "brand": "NOVONORM"
+   },
+   {
+    "addition": "CIPROFLOXACINE",
+    "with": "CAFEINE",
+    "level": "APEC",
+    "brand": "CIFLOX"
+   }
+  ],
+  "replacement": {
+   "addition": "NORFLOXACINE",
+   "with": "CAFEINE",
+   "level": "APEC",
+   "brand": "CHIBROXINE"
+  }
+ },
+ {
+  "cluster": "C-11",
+  "at": 3,
+  "aside": {
+   "drug": "FOSTEMSAVIR",
+   "brand": "RUKOBIA",
+   "addition": "MITOTANE",
+   "brand_addition": "LYSODREN"
+  },
+  "aside_at": 0,
+  "hidden_at": 2,
+  "profile": [
+   "DILTIAZEM",
+   "ACIDE URSODESOXYCHOLIQUE",
+   "ATAZANAVIR",
+   "PÉRAMPANEL"
+  ],
+  "asks": [
+   {
+    "addition": "OXCARBAZEPINE",
+    "with": "PÉRAMPANEL",
+    "level": "APEC",
+    "brand": "TRILEPTAL"
+   },
+   {
+    "addition": "CICLOSPORINE",
+    "with": "ACIDE URSODESOXYCHOLIQUE",
+    "level": "APEC",
+    "brand": "NEORAL"
+   },
+   {
+    "addition": "BUPRENORPHINE",
+    "with": "ATAZANAVIR",
+    "level": "APEC",
+    "brand": "BUVIDAL"
+   },
+   {
+    "addition": "IVABRADINE",
+    "with": "DILTIAZEM",
+    "level": "CI",
+    "brand": "PROCORALAN"
+   },
+   {
+    "addition": "TENOFOVIR DISOPROXIL",
+    "with": "ATAZANAVIR",
+    "level": "APEC",
+    "brand": "VIREAD"
+   },
+   {
+    "addition": "TICAGRELOR",
+    "with": "DILTIAZEM",
+    "level": "APEC",
+    "brand": "BRILIQUE"
+   }
+  ],
+  "replacement": {
+   "addition": "POSACONAZOLE",
+   "with": "ATAZANAVIR",
+   "level": "APEC",
+   "brand": "NOXAFIL"
+  }
+ },
+ {
+  "cluster": "C-12",
+  "at": 2,
+  "aside": {
+   "drug": "TETRABENAZINE",
+   "brand": "XENAZINE",
+   "addition": "PAROXETINE",
+   "brand_addition": "DEROXAT"
+  },
+  "aside_at": 0,
+  "hidden_at": 3,
+  "profile": [
+   "DANTROLENE",
+   "BUSULFAN",
+   "LINEZOLIDE",
+   "CICLOSPORINE"
+  ],
+  "asks": [
+   {
+    "addition": "METHYLPREDNISOLONE",
+    "with": "CICLOSPORINE",
+    "level": "APEC",
+    "brand": "SOLU-MEDROL"
+   },
+   {
+    "addition": "CLARITHROMYCINE",
+    "with": "LINEZOLIDE",
+    "level": "APEC",
+    "brand": "ZECLAR"
+   },
+   {
+    "addition": "DILTIAZEM",
+    "with": "DANTROLENE",
+    "level": "CI",
+    "brand": "BI TILDIEM L.P."
+   },
+   {
+    "addition": "DEFERASIROX",
+    "with": "BUSULFAN",
+    "level": "APEC",
+    "brand": "EXJADE"
+   },
+   {
+    "addition": "TRIMETHOPRIME",
+    "with": "CICLOSPORINE",
+    "level": "APEC",
+    "brand": "DELPRIM"
+   },
+   {
+    "addition": "AMBRISENTAN",
+    "with": "CICLOSPORINE",
+    "level": "APEC",
+    "brand": "VOLIBRIS"
+   }
+  ],
+  "replacement": {
+   "addition": "AMPHOTERICINE B",
+   "with": "CICLOSPORINE",
+   "level": "APEC",
+   "brand": "FUNGIZONE NOURRISSONS ET ENFANTS"
+  }
+ },
+ {
+  "cluster": "C-13",
+  "at": 2,
+  "aside": {
+   "drug": "DEFERASIROX",
+   "brand": "EXJADE",
+   "addition": "DÉFÉRIPRONE",
+   "brand_addition": "FERRIPROX"
+  },
+  "aside_at": 0,
+  "hidden_at": 3,
+  "profile": [
+   "DIHYDROERGOTAMINE",
+   "ERYTHROMYCINE",
+   "MIDAZOLAM",
+   "CAFEINE"
+  ],
+  "asks": [
+   {
+    "addition": "CIPROFLOXACINE",
+    "with": "CAFEINE",
+    "level": "APEC",
+    "brand": "CILOXAN"
+   },
+   {
+    "addition": "ROXITHROMYCINE",
+    "with": "MIDAZOLAM",
+    "level": "APEC",
+    "brand": "RULID"
+   },
+   {
+    "addition": "TRICLABENDAZOLE",
+    "with": "DIHYDROERGOTAMINE",
+    "level": "CI",
+    "brand": "EGATEN"
+   },
+   {
+    "addition": "VENLAFAXINE",
+    "with": "ERYTHROMYCINE",
+    "level": "APEC",
+    "brand": "EFFEXOR L.P."
+   },
+   {
+    "addition": "MEXILETINE",
+    "with": "CAFEINE",
+    "level": "APEC",
+    "brand": "NAMUSCLA"
+   },
+   {
+    "addition": "LITHIUM",
+    "with": "CAFEINE",
+    "level": "APEC",
+    "brand": "LITHIODERM"
+   }
+  ],
+  "replacement": {
+   "addition": "NORFLOXACINE",
+   "with": "CAFEINE",
+   "level": "APEC",
+   "brand": "CHIBROXINE"
+  }
+ },
+ {
+  "cluster": "C-14",
+  "at": 2,
+  "aside": {
+   "drug": "MITOTANE",
+   "brand": "LYSODREN",
+   "addition": "FOSTEMSAVIR",
+   "brand_addition": "RUKOBIA"
+  },
+  "aside_at": 0,
+  "hidden_at": 3,
+  "profile": [
+   "PAROXETINE",
+   "CAFEINE",
+   "PACLITAXEL",
+   "MIDAZOLAM"
+  ],
+  "asks": [
+   {
+    "addition": "LITHIUM",
+    "with": "CAFEINE",
+    "level": "APEC",
+    "brand": "LITHIODERM"
+   },
+   {
+    "addition": "ROXITHROMYCINE",
+    "with": "MIDAZOLAM",
+    "level": "APEC",
+    "brand": "RULID"
+   },
+   {
+    "addition": "PIMOZIDE",
+    "with": "PAROXETINE",
+    "level": "CI",
+    "brand": "ORAP"
+   },
+   {
+    "addition": "CLOPIDOGREL",
+    "with": "PACLITAXEL",
+    "level": "APEC",
+    "brand": "PLAVIX"
+   },
+   {
+    "addition": "MEXILETINE",
+    "with": "CAFEINE",
+    "level": "APEC",
+    "brand": "NAMUSCLA"
+   },
+   {
+    "addition": "NORFLOXACINE",
+    "with": "CAFEINE",
+    "level": "APEC",
+    "brand": "CHIBROXINE"
+   }
+  ],
+  "replacement": {
+   "addition": "CIPROFLOXACINE",
+   "with": "CAFEINE",
+   "level": "APEC",
+   "brand": "CILOXAN"
+  }
+ },
+ {
+  "cluster": "C-15",
+  "at": 3,
+  "aside": {
+   "drug": "GANCICLOVIR",
+   "brand": "VIRGAN",
+   "addition": "MARIBAVIR",
+   "brand_addition": "LIVTENCITY"
+  },
+  "aside_at": 0,
+  "hidden_at": 2,
+  "profile": [
+   "EFAVIRENZ",
+   "IFOSFAMIDE",
+   "SACITUZUMAB",
+   "CICLOSPORINE"
+  ],
+  "asks": [
+   {
+    "addition": "APREPITANT",
+    "with": "IFOSFAMIDE",
+    "level": "APEC",
+    "brand": "EMEND"
+   },
+   {
+    "addition": "AMPHOTERICINE B",
+    "with": "CICLOSPORINE",
+    "level": "APEC",
+    "brand": "AMBISOME"
+   },
+   {
+    "addition": "METHYLPREDNISOLONE",
+    "with": "CICLOSPORINE",
+    "level": "APEC",
+    "brand": "MEDROL"
+   },
+   {
+    "addition": "DIHYDROERGOTAMINE",
+    "with": "EFAVIRENZ",
+    "level": "CI",
+    "brand": "DIERGOSPRAY"
+   },
+   {
+    "addition": "VÉMURAFÉNIB",
+    "with": "IFOSFAMIDE",
+    "level": "APEC",
+    "brand": "ZELBORAF"
+   },
+   {
+    "addition": "PREDNISOLONE",
+    "with": "CICLOSPORINE",
+    "level": "APEC",
+    "brand": "HYDROCORTANCYL"
+   }
+  ],
+  "replacement": {
+   "addition": "ACIDE ASCORBIQUE",
+   "with": "CICLOSPORINE",
+   "level": "APEC",
+   "brand": "LAROSCORBINE"
+  }
+ },
+ {
+  "cluster": "C-16",
+  "at": 2,
+  "aside": {
+   "drug": "KETOCONAZOLE",
+   "brand": "KETODERM",
+   "addition": "NEVIRAPINE",
+   "brand_addition": "VIRAMUNE"
+  },
+  "aside_at": 0,
+  "hidden_at": 3,
+  "profile": [
+   "DASABUVIR",
+   "NORFLOXACINE",
+   "CICLOSPORINE",
+   "APREPITANT"
+  ],
+  "asks": [
+   {
+    "addition": "ACIDE ASCORBIQUE",
+    "with": "CICLOSPORINE",
+    "level": "APEC",
+    "brand": "VITAMINE C ARROW"
+   },
+   {
+    "addition": "CAFEINE",
+    "with": "NORFLOXACINE",
+    "level": "APEC",
+    "brand": "GENCEBOK"
+   },
+   {
+    "addition": "GEMFIBROZIL",
+    "with": "DASABUVIR",
+    "level": "CI",
+    "brand": "LIPUR"
+   },
+   {
+    "addition": "IFOSFAMIDE",
+    "with": "APREPITANT",
+    "level": "APEC",
+    "brand": "HOLOXAN"
+   },
+   {
+    "addition": "AMPHOTERICINE B",
+    "with": "CICLOSPORINE",
+    "level": "APEC",
+    "brand": "FUNGIZONE"
+   },
+   {
+    "addition": "ITRACONAZOLE",
+    "with": "APREPITANT",
+    "level": "APEC",
+    "brand": "SPORANOX"
+   }
+  ],
+  "replacement": {
+   "addition": "AMBRISENTAN",
+   "with": "CICLOSPORINE",
+   "level": "APEC",
+   "brand": "VOLIBRIS"
+  }
+ },
+ {
+  "cluster": "C-17",
+  "at": 2,
+  "aside": {
+   "drug": "PROBENECIDE",
+   "brand": "SANTURIL",
+   "addition": "METHOTREXATE",
+   "brand_addition": "IZIXATE"
+  },
+  "aside_at": 0,
+  "hidden_at": 3,
+  "profile": [
+   "MÉTHYLERGOMÉTRINE",
+   "TENOFOVIR DISOPROXIL",
+   "RIFAMPICINE",
+   "TICLOPIDINE"
+  ],
+  "asks": [
+   {
+    "addition": "DOXYCYCLINE",
+    "with": "RIFAMPICINE",
+    "level": "APEC",
+    "brand": "TOLEXINE"
+   },
+   {
+    "addition": "ATAZANAVIR",
+    "with": "TENOFOVIR DISOPROXIL",
+    "level": "APEC",
+    "brand": "REYATAZ"
+   },
+   {
+    "addition": "SULPROSTONE",
+    "with": "MÉTHYLERGOMÉTRINE",
+    "level": "CI",
+    "brand": "NALADOR"
+   },
+   {
+    "addition": "EXEMESTANE",
+    "with": "RIFAMPICINE",
+    "level": "APEC",
+    "brand": "AROMASINE"
+   },
+   {
+    "addition": "METOPROLOL",
+    "with": "RIFAMPICINE",
+    "level": "APEC",
+    "brand": "SELOZOK LP"
+   },
+   {
+    "addition": "SACITUZUMAB",
+    "with": "RIFAMPICINE",
+    "level": "APEC",
+    "brand": "TRODELVY"
+   }
+  ],
+  "replacement": {
+   "addition": "PROPRANOLOL",
+   "with": "RIFAMPICINE",
+   "level": "APEC",
+   "brand": "KARNODYL"
+  }
+ },
+ {
+  "cluster": "C-18",
+  "at": 2,
+  "aside": {
+   "drug": "MÉTHYLERGOMÉTRINE",
+   "brand": "METHERGIN",
+   "addition": "SULPROSTONE",
+   "brand_addition": "NALADOR"
+  },
+  "aside_at": 0,
+  "hidden_at": 3,
+  "profile": [
+   "COLCHICINE",
+   "RIFAMPICINE",
+   "CIPROFLOXACINE",
+   "ROXITHROMYCINE"
+  ],
+  "asks": [
+   {
+    "addition": "EXEMESTANE",
+    "with": "RIFAMPICINE",
+    "level": "APEC",
+    "brand": "AROMASINE"
+   },
+   {
+    "addition": "CAFEINE",
+    "with": "CIPROFLOXACINE",
+    "level": "APEC",
+    "brand": "PERCUTAFEINE"
+   },
+   {
+    "addition": "PRISTINAMYCINE",
+    "with": "COLCHICINE",
+    "level": "CI",
+    "brand": "PYOSTACINE"
+   },
+   {
+    "addition": "SACITUZUMAB",
+    "with": "RIFAMPICINE",
+    "level": "APEC",
+    "brand": "TRODELVY"
+   },
+   {
+    "addition": "METOPROLOL",
+    "with": "RIFAMPICINE",
+    "level": "APEC",
+    "brand": "LOPRESSOR"
+   },
+   {
+    "addition": "PROPRANOLOL",
+    "with": "RIFAMPICINE",
+    "level": "APEC",
+    "brand": "HEMANGIOL"
+   }
+  ],
+  "replacement": {
+   "addition": "PÉRAMPANEL",
+   "with": "RIFAMPICINE",
+   "level": "APEC",
+   "brand": "FYCOMPA"
+  }
+ },
+ {
+  "cluster": "C-19",
+  "at": 2,
+  "aside": {
+   "drug": "DANTROLENE",
+   "brand": "DANTRIUM",
+   "addition": "DILTIAZEM",
+   "brand_addition": "TILDIEM"
+  },
+  "aside_at": 0,
+  "hidden_at": 3,
+  "profile": [
+   "VELPATASVIR",
+   "LEVODOPA",
+   "ACIDE ACETOHYDROXAMIQUE",
+   "CICLOSPORINE"
+  ],
+  "asks": [
+   {
+    "addition": "PREDNISOLONE",
+    "with": "CICLOSPORINE",
+    "level": "APEC",
+    "brand": "ULTARCORLENE"
+   },
+   {
+    "addition": "BACLOFENE",
+    "with": "LEVODOPA",
+    "level": "APEC",
+    "brand": "LIORESAL"
+   },
+   {
+    "addition": "RIFAMPICINE",
+    "with": "VELPATASVIR",
+    "level": "CI",
+    "brand": "RIMACTAN"
+   },
+   {
+    "addition": "ACIDE ASCORBIQUE",
+    "with": "CICLOSPORINE",
+    "level": "APEC",
+    "brand": "VITAMINE C ARROW"
+   },
+   {
+    "addition": "AMPHOTERICINE B",
+    "with": "CICLOSPORINE",
+    "level": "APEC",
+    "brand": "FUNGIZONE NOURRISSONS ET ENFANTS"
+   },
+   {
+    "addition": "TRIMETHOPRIME",
+    "with": "CICLOSPORINE",
+    "level": "APEC",
+    "brand": "DELPRIM"
+   }
+  ],
+  "replacement": {
+   "addition": "AMBRISENTAN",
+   "with": "CICLOSPORINE",
+   "level": "APEC",
+   "brand": "VOLIBRIS"
+  }
+ },
+ {
+  "cluster": "C-20",
+  "at": 3,
+  "aside": {
+   "drug": "FOSTEMSAVIR",
+   "brand": "RUKOBIA",
+   "addition": "MITOTANE",
+   "brand_addition": "LYSODREN"
+  },
+  "aside_at": 0,
+  "hidden_at": 2,
+  "profile": [
+   "DULOXETINE",
+   "RIFAMPICINE",
+   "CIMETIDINE",
+   "ELVITÉGRAVIR"
+  ],
+  "asks": [
+   {
+    "addition": "EXEMESTANE",
+    "with": "RIFAMPICINE",
+    "level": "APEC",
+    "brand": "AROMASINE"
+   },
+   {
+    "addition": "CICLOSPORINE",
+    "with": "CIMETIDINE",
+    "level": "APEC",
+    "brand": "SANDIMMUN"
+   },
+   {
+    "addition": "RIFABUTINE",
+    "with": "ELVITÉGRAVIR",
+    "level": "APEC",
+    "brand": "ANSATIPINE"
+   },
+   {
+    "addition": "TETRABENAZINE",
+    "with": "DULOXETINE",
+    "level": "CI",
+    "brand": "XENAZINE"
+   },
+   {
+    "addition": "PÉRAMPANEL",
+    "with": "RIFAMPICINE",
+    "level": "APEC",
+    "brand": "FYCOMPA"
+   },
+   {
+    "addition": "DOXYCYCLINE",
+    "with": "RIFAMPICINE",
+    "level": "APEC",
+    "brand": "TOLEXINE"
+   }
+  ],
+  "replacement": {
+   "addition": "PROPRANOLOL",
+   "with": "RIFAMPICINE",
+   "level": "APEC",
+   "brand": "KARNODYL"
+  }
+ },
+ {
+  "cluster": "C-21",
+  "at": 3,
+  "aside": {
+   "drug": "PAROXETINE",
+   "brand": "DEROXAT",
+   "addition": "PIMOZIDE",
+   "brand_addition": "ORAP"
+  },
+  "aside_at": 0,
+  "hidden_at": 2,
+  "profile": [
+   "FLUVOXAMINE",
+   "CICLOSPORINE",
+   "DOXYCYCLINE",
+   "FLUCYTOSINE"
+  ],
+  "asks": [
+   {
+    "addition": "VALGANCICLOVIR",
+    "with": "FLUCYTOSINE",
+    "level": "APEC",
+    "brand": "ROVALCYTE"
+   },
+   {
+    "addition": "PREDNISOLONE",
+    "with": "CICLOSPORINE",
+    "level": "APEC",
+    "brand": "ULTARCORLENE"
+   },
+   {
+    "addition": "RIFAMPICINE",
+    "with": "DOXYCYCLINE",
+    "level": "APEC",
+    "brand": "RIFADINE"
+   },
+   {
+    "addition": "PIRFENIDONE",
+    "with": "FLUVOXAMINE",
+    "level": "CI",
+    "brand": "ESBRIET"
+   },
+   {
+    "addition": "METHYLPREDNISOLONE",
+    "with": "CICLOSPORINE",
+    "level": "APEC",
+    "brand": "SOLU-MEDROL"
+   },
+   {
+    "addition": "GANCICLOVIR",
+    "with": "FLUCYTOSINE",
+    "level": "APEC",
+    "brand": "VIRGAN"
+   }
+  ],
+  "replacement": {
+   "addition": "ACIDE ASCORBIQUE",
+   "with": "CICLOSPORINE",
+   "level": "APEC",
+   "brand": "VITAMINE C UPSA EFFERVESCENTE"
+  }
+ },
+ {
+  "cluster": "C-22",
+  "at": 2,
+  "aside": {
+   "drug": "MARIBAVIR",
+   "brand": "LIVTENCITY",
+   "addition": "GANCICLOVIR",
+   "brand_addition": "VIRGAN"
+  },
+  "aside_at": 0,
+  "hidden_at": 3,
+  "profile": [
+   "BICTÉGRAVIR",
+   "CICLOSPORINE",
+   "METHADONE",
+   "COCAINE"
+  ],
+  "asks": [
+   {
+    "addition": "PREDNISOLONE",
+    "with": "CICLOSPORINE",
+    "level": "APEC",
+    "brand": "SOLUPRED"
+   },
+   {
+    "addition": "DISULFIRAME",
+    "with": "COCAINE",
+    "level": "APEC",
+    "brand": "ESPERAL"
+   },
+   {
+    "addition": "RIFAMPICINE",
+    "with": "BICTÉGRAVIR",
+    "level": "CI",
+    "brand": "RIFADINE IV"
+   },
+   {
+    "addition": "TRIMETHOPRIME",
+    "with": "CICLOSPORINE",
+    "level": "APEC",
+    "brand": "DELPRIM"
+   },
+   {
+    "addition": "AMPHOTERICINE B",
+    "with": "CICLOSPORINE",
+    "level": "APEC",
+    "brand": "FUNGIZONE NOURRISSONS ET ENFANTS"
+   },
+   {
+    "addition": "ACIDE ASCORBIQUE",
+    "with": "CICLOSPORINE",
+    "level": "APEC",
+    "brand": "LAROSCORBINE SANS SUCRE"
+   }
+  ],
+  "replacement": {
+   "addition": "METHYLPREDNISOLONE",
+   "with": "CICLOSPORINE",
+   "level": "APEC",
+   "brand": "SOLUMEDROL"
+  }
+ },
+ {
+  "cluster": "C-23",
+  "at": 2,
+  "aside": {
+   "drug": "MITOTANE",
+   "brand": "LYSODREN",
+   "addition": "FOSTEMSAVIR",
+   "brand_addition": "RUKOBIA"
+  },
+  "aside_at": 0,
+  "hidden_at": 3,
+  "profile": [
+   "AGOMELATINE",
+   "OZANIMOD",
+   "FLUCYTOSINE",
+   "LITHIUM"
+  ],
+  "asks": [
+   {
+    "addition": "CLOPIDOGREL",
+    "with": "OZANIMOD",
+    "level": "APEC",
+    "brand": "PLAVIX"
+   },
+   {
+    "addition": "GANCICLOVIR",
+    "with": "FLUCYTOSINE",
+    "level": "APEC",
+    "brand": "VIRGAN"
+   },
+   {
+    "addition": "FLUVOXAMINE",
+    "with": "AGOMELATINE",
+    "level": "CI",
+    "brand": "FLOXYFRAL"
+   },
+   {
+    "addition": "ORLISTAT",
+    "with": "LITHIUM",
+    "level": "APEC",
+    "brand": "XENICAL"
+   },
+   {
+    "addition": "VALGANCICLOVIR",
+    "with": "FLUCYTOSINE",
+    "level": "APEC",
+    "brand": "ROVALCYTE"
+   },
+   {
+    "addition": "CAFEINE",
+    "with": "LITHIUM",
+    "level": "APEC",
+    "brand": "GENCEBOK"
+   }
+  ],
+  "replacement": {
+   "addition": "GEMFIBROZIL",
+   "with": "OZANIMOD",
+   "level": "APEC",
+   "brand": "LIPUR"
+  }
+ },
+ {
+  "cluster": "C-24",
+  "at": 3,
+  "aside": {
+   "drug": "ACITRETINE",
+   "brand": "SORIATANE",
+   "addition": "METHOTREXATE",
+   "brand_addition": "METOTAB"
+  },
+  "aside_at": 0,
+  "hidden_at": 2,
+  "profile": [
+   "CINACALCET",
+   "CLARITHROMYCINE",
+   "VERAPAMIL",
+   "IFOSFAMIDE"
+  ],
+  "asks": [
+   {
+    "addition": "VÉMURAFÉNIB",
+    "with": "IFOSFAMIDE",
+    "level": "APEC",
+    "brand": "ZELBORAF"
+   },
+   {
+    "addition": "ETRAVIRINE",
+    "with": "CLARITHROMYCINE",
+    "level": "APEC",
+    "brand": "INTELENCE"
+   },
+   {
+    "addition": "DOXORUBICINE",
+    "with": "VERAPAMIL",
+    "level": "APEC",
+    "brand": "CAELYX PEGYLATED LIPOSOMAL"
+   },
+   {
+    "addition": "DEXTROMETHORPHANE",
+    "with": "CINACALCET",
+    "level": "CI",
+    "brand": "TUSSIDANE"
+   },
+   {
+    "addition": "LINEZOLIDE",
+    "with": "CLARITHROMYCINE",
+    "level": "APEC",
+    "brand": "ZYVOXID"
+   },
+   {
+    "addition": "TICAGRELOR",
+    "with": "VERAPAMIL",
+    "level": "APEC",
+    "brand": "BRILIQUE"
+   }
+  ],
+  "replacement": {
+   "addition": "APREPITANT",
+   "with": "IFOSFAMIDE",
+   "level": "APEC",
+   "brand": "EMEND"
+  }
+ },
+ {
+  "cluster": "C-25",
+  "at": 3,
+  "aside": {
+   "drug": "VALGANCICLOVIR",
+   "brand": "ROVALCYTE",
+   "addition": "MARIBAVIR",
+   "brand_addition": "LIVTENCITY"
+  },
+  "aside_at": 0,
+  "hidden_at": 2,
+  "profile": [
+   "KETOCONAZOLE",
+   "CAFEINE",
+   "CLARITHROMYCINE",
+   "MIDAZOLAM"
+  ],
+  "asks": [
+   {
+    "addition": "LINEZOLIDE",
+    "with": "CLARITHROMYCINE",
+    "level": "APEC",
+    "brand": "ZYVOXID"
+   },
+   {
+    "addition": "NORFLOXACINE",
+    "with": "CAFEINE",
+    "level": "APEC",
+    "brand": "CHIBROXINE"
+   },
+   {
+    "addition": "ROXITHROMYCINE",
+    "with": "MIDAZOLAM",
+    "level": "APEC",
+    "brand": "RULID"
+   },
+   {
+    "addition": "NEVIRAPINE",
+    "with": "KETOCONAZOLE",
+    "level": "CI",
+    "brand": "VIRAMUNE"
+   },
+   {
+    "addition": "SALMETEROL",
+    "with": "KETOCONAZOLE",
+    "level": "APEC",
+    "brand": "SEREVENT"
+   },
+   {
+    "addition": "LITHIUM",
+    "with": "CAFEINE",
+    "level": "APEC",
+    "brand": "LITHIODERM"
+   }
+  ],
+  "replacement": {
+   "addition": "ETRAVIRINE",
+   "with": "CLARITHROMYCINE",
+   "level": "APEC",
+   "brand": "INTELENCE"
+  }
+ },
+ {
+  "cluster": "C-26",
+  "at": 2,
+  "aside": {
+   "drug": "TRICLABENDAZOLE",
+   "brand": "EGATEN",
+   "addition": "DIHYDROERGOTAMINE",
+   "brand_addition": "DIERGOSPRAY"
+  },
+  "aside_at": 0,
+  "hidden_at": 3,
+  "profile": [
+   "DEFERASIROX",
+   "DABIGATRAN",
+   "BUSPIRONE",
+   "CLARITHROMYCINE"
+  ],
+  "asks": [
+   {
+    "addition": "VENLAFAXINE",
+    "with": "CLARITHROMYCINE",
+    "level": "APEC",
+    "brand": "EFFEXOR L.P."
+   },
+   {
+    "addition": "DIAZEPAM",
+    "with": "BUSPIRONE",
+    "level": "APEC",
+    "brand": "VALIUM"
+   },
+   {
+    "addition": "DÉFÉROXAMINE",
+    "with": "DEFERASIROX",
+    "level": "CI",
+    "brand": "DESFERAL"
+   },
+   {
+    "addition": "TICAGRELOR",
+    "with": "DABIGATRAN",
+    "level": "APEC",
+    "brand": "BRILIQUE"
+   },
+   {
+    "addition": "BUSULFAN",
+    "with": "DEFERASIROX",
+    "level": "APEC",
+    "brand": "MYLERAN"
+   },
+   {
+    "addition": "ETRAVIRINE",
+    "with": "CLARITHROMYCINE",
+    "level": "APEC",
+    "brand": "INTELENCE"
+   }
+  ],
+  "replacement": {
+   "addition": "LINEZOLIDE",
+   "with": "CLARITHROMYCINE",
+   "level": "APEC",
+   "brand": "ZYVOXID"
+  }
+ },
+ {
+  "cluster": "C-27",
+  "at": 2,
+  "aside": {
+   "drug": "LÉNACAPAVIR",
+   "brand": "SUNLENCA",
+   "addition": "OXCARBAZEPINE",
+   "brand_addition": "TRILEPTAL"
+  },
+  "aside_at": 0,
+  "hidden_at": 3,
+  "profile": [
+   "ERGOTAMINE",
+   "CICLOSPORINE",
+   "FER",
+   "VALGANCICLOVIR"
+  ],
+  "asks": [
+   {
+    "addition": "AMPHOTERICINE B",
+    "with": "CICLOSPORINE",
+    "level": "APEC",
+    "brand": "FUNGIZONE"
+   },
+   {
+    "addition": "FLUCYTOSINE",
+    "with": "VALGANCICLOVIR",
+    "level": "APEC",
+    "brand": "ANCOTIL"
+   },
+   {
+    "addition": "STIRIPENTOL",
+    "with": "ERGOTAMINE",
+    "level": "CI",
+    "brand": "DIACOMIT"
+   },
+   {
+    "addition": "PREDNISOLONE",
+    "with": "CICLOSPORINE",
+    "level": "APEC",
+    "brand": "SOLUPRED"
+   },
+   {
+    "addition": "TRIMETHOPRIME",
+    "with": "CICLOSPORINE",
+    "level": "APEC",
+    "brand": "DELPRIM"
+   },
+   {
+    "addition": "METHYLPREDNISOLONE",
+    "with": "CICLOSPORINE",
+    "level": "APEC",
+    "brand": "SOLUMEDROL"
+   }
+  ],
+  "replacement": {
+   "addition": "ACIDE ASCORBIQUE",
+   "with": "CICLOSPORINE",
+   "level": "APEC",
+   "brand": "VITAMINE C UPSA EFFERVESCENTE"
+  }
+ },
+ {
+  "cluster": "C-28",
+  "at": 3,
+  "aside": {
+   "drug": "DEXAMETHASONE",
+   "brand": "ETARTILEN",
+   "addition": "RILPIVIRINE",
+   "brand_addition": "REKAMBYS"
+  },
+  "aside_at": 0,
+  "hidden_at": 2,
+  "profile": [
+   "DILTIAZEM",
+   "CLARITHROMYCINE",
+   "OXCARBAZEPINE",
+   "PREDNISOLONE"
+  ],
+  "asks": [
+   {
+    "addition": "LINEZOLIDE",
+    "with": "CLARITHROMYCINE",
+    "level": "APEC",
+    "brand": "ZYVOXID"
+   },
+   {
+    "addition": "CICLOSPORINE",
+    "with": "PREDNISOLONE",
+    "level": "APEC",
+    "brand": "NEORAL"
+   },
+   {
+    "addition": "PÉRAMPANEL",
+    "with": "OXCARBAZEPINE",
+    "level": "APEC",
+    "brand": "FYCOMPA"
+   },
+   {
+    "addition": "PIMOZIDE",
+    "with": "DILTIAZEM",
+    "level": "CI",
+    "brand": "ORAP"
+   },
+   {
+    "addition": "TICAGRELOR",
+    "with": "DILTIAZEM",
+    "level": "APEC",
+    "brand": "BRILIQUE"
+   },
+   {
+    "addition": "VENLAFAXINE",
+    "with": "CLARITHROMYCINE",
+    "level": "APEC",
+    "brand": "EFFEXOR L.P."
+   }
+  ],
+  "replacement": {
+   "addition": "ETRAVIRINE",
+   "with": "CLARITHROMYCINE",
+   "level": "APEC",
+   "brand": "INTELENCE"
+  }
+ },
+ {
+  "cluster": "C-29",
+  "at": 2,
+  "aside": {
+   "drug": "SPIRONOLACTONE",
+   "brand": "ALDACTONE",
+   "addition": "MITOTANE",
+   "brand_addition": "LYSODREN"
+  },
+  "aside_at": 0,
+  "hidden_at": 3,
+  "profile": [
+   "IVABRADINE",
+   "VITAMINE D",
+   "CLOPIDOGREL",
+   "CAFEINE"
+  ],
+  "asks": [
+   {
+    "addition": "ORLISTAT",
+    "with": "VITAMINE D",
+    "level": "APEC",
+    "brand": "XENICAL"
+   },
+   {
+    "addition": "CIPROFLOXACINE",
+    "with": "CAFEINE",
+    "level": "APEC",
+    "brand": "CIFLOX"
+   },
+   {
+    "addition": "VERAPAMIL",
+    "with": "IVABRADINE",
+    "level": "CI",
+    "brand": "ISOPTINE L.P."
+   },
+   {
+    "addition": "REPAGLINIDE",
+    "with": "CLOPIDOGREL",
+    "level": "APEC",
+    "brand": "NOVONORM"
+   },
+   {
+    "addition": "NORFLOXACINE",
+    "with": "CAFEINE",
+    "level": "APEC",
+    "brand": "CHIBROXINE"
+   },
+   {
+    "addition": "PACLITAXEL",
+    "with": "CLOPIDOGREL",
+    "level": "APEC",
+    "brand": "ABRAXANE"
+   }
+  ],
+  "replacement": {
+   "addition": "MEXILETINE",
+   "with": "CAFEINE",
+   "level": "APEC",
+   "brand": "NAMUSCLA"
+  }
+ },
+ {
+  "cluster": "C-30",
+  "at": 3,
+  "aside": {
+   "drug": "SULPROSTONE",
+   "brand": "NALADOR",
+   "addition": "MÉTHYLERGOMÉTRINE",
+   "brand_addition": "METHERGIN"
+  },
+  "aside_at": 0,
+  "hidden_at": 2,
+  "profile": [
+   "ATORVASTATINE",
+   "OZANIMOD",
+   "CAFEINE",
+   "VÉMURAFÉNIB"
+  ],
+  "asks": [
+   {
+    "addition": "CIPROFLOXACINE",
+    "with": "CAFEINE",
+    "level": "APEC",
+    "brand": "CIFLOX"
+   },
+   {
+    "addition": "GEMFIBROZIL",
+    "with": "OZANIMOD",
+    "level": "APEC",
+    "brand": "LIPUR"
+   },
+   {
+    "addition": "IFOSFAMIDE",
+    "with": "VÉMURAFÉNIB",
+    "level": "APEC",
+    "brand": "HOLOXAN"
+   },
+   {
+    "addition": "ITRACONAZOLE",
+    "with": "ATORVASTATINE",
+    "level": "CI",
+    "brand": "SPORANOX"
+   },
+   {
+    "addition": "MEXILETINE",
+    "with": "CAFEINE",
+    "level": "APEC",
+    "brand": "NAMUSCLA"
+   },
+   {
+    "addition": "CLOPIDOGREL",
+    "with": "OZANIMOD",
+    "level": "APEC",
+    "brand": "PLAVIX"
+   }
+  ],
+  "replacement": {
+   "addition": "LITHIUM",
+   "with": "CAFEINE",
+   "level": "APEC",
+   "brand": "LITHIODERM"
+  }
+ },
+ {
+  "cluster": "C-31",
+  "at": 2,
+  "aside": {
+   "drug": "MARIBAVIR",
+   "brand": "LIVTENCITY",
+   "addition": "GANCICLOVIR",
+   "brand_addition": "CYMEVAN"
+  },
+  "aside_at": 0,
+  "hidden_at": 3,
+  "profile": [
+   "JOSAMYCINE",
+   "VENLAFAXINE",
+   "GEMFIBROZIL",
+   "POSACONAZOLE"
+  ],
+  "asks": [
+   {
+    "addition": "ERYTHROMYCINE",
+    "with": "VENLAFAXINE",
+    "level": "APEC",
+    "brand": "ERYTHROGEL"
+   },
+   {
+    "addition": "ATAZANAVIR",
+    "with": "POSACONAZOLE",
+    "level": "APEC",
+    "brand": "REYATAZ"
+   },
+   {
+    "addition": "IVABRADINE",
+    "with": "JOSAMYCINE",
+    "level": "CI",
+    "brand": "PROCORALAN"
+   },
+   {
+    "addition": "ITRACONAZOLE",
+    "with": "VENLAFAXINE",
+    "level": "APEC",
+    "brand": "SPORANOX"
+   },
+   {
+    "addition": "VORICONAZOLE",
+    "with": "VENLAFAXINE",
+    "level": "APEC",
+    "brand": "VFEND"
+   },
+   {
+    "addition": "TRAMADOL",
+    "with": "VENLAFAXINE",
+    "level": "APEC",
+    "brand": "TOPALGIC"
+   }
+  ],
+  "replacement": {
+   "addition": "KETOCONAZOLE",
+   "with": "VENLAFAXINE",
+   "level": "APEC",
+   "brand": "KETODERM"
+  }
+ },
+ {
+  "cluster": "C-32",
+  "at": 3,
+  "aside": {
+   "drug": "MARIBAVIR",
+   "brand": "LIVTENCITY",
+   "addition": "GANCICLOVIR",
+   "brand_addition": "VIRGAN"
+  },
+  "aside_at": 0,
+  "hidden_at": 2,
+  "profile": [
+   "ERGOTAMINE",
+   "CAFEINE",
+   "LEVODOPA",
+   "ELVITÉGRAVIR"
+  ],
+  "asks": [
+   {
+    "addition": "MEXILETINE",
+    "with": "CAFEINE",
+    "level": "APEC",
+    "brand": "NAMUSCLA"
+   },
+   {
+    "addition": "BACLOFENE",
+    "with": "LEVODOPA",
+    "level": "APEC",
+    "brand": "LIORESAL"
+   },
+   {
+    "addition": "RIFABUTINE",
+    "with": "ELVITÉGRAVIR",
+    "level": "APEC",
+    "brand": "ANSATIPINE"
+   },
+   {
+    "addition": "DILTIAZEM",
+    "with": "ERGOTAMINE",
+    "level": "CI",
+    "brand": "BI TILDIEM L.P."
+   },
+   {
+    "addition": "LITHIUM",
+    "with": "CAFEINE",
+    "level": "APEC",
+    "brand": "TERALITHE LP"
+   },
+   {
+    "addition": "CIPROFLOXACINE",
+    "with": "CAFEINE",
+    "level": "APEC",
+    "brand": "CIFLOX"
+   }
+  ],
+  "replacement": {
+   "addition": "NORFLOXACINE",
+   "with": "CAFEINE",
+   "level": "APEC",
+   "brand": "CHIBROXINE"
+  }
+ },
+ {
+  "cluster": "C-33",
+  "at": 3,
+  "aside": {
+   "drug": "MITOTANE",
+   "brand": "LYSODREN",
+   "addition": "FOSTEMSAVIR",
+   "brand_addition": "RUKOBIA"
+  },
+  "aside_at": 0,
+  "hidden_at": 2,
+  "profile": [
+   "QUINIDINE",
+   "POSACONAZOLE",
+   "ATOVAQUONE",
+   "CICLOSPORINE"
+  ],
+  "asks": [
+   {
+    "addition": "TRIMETHOPRIME",
+    "with": "CICLOSPORINE",
+    "level": "APEC",
+    "brand": "DELPRIM"
+   },
+   {
+    "addition": "ATAZANAVIR",
+    "with": "POSACONAZOLE",
+    "level": "APEC",
+    "brand": "REYATAZ"
+   },
+   {
+    "addition": "ACIDE ASCORBIQUE",
+    "with": "CICLOSPORINE",
+    "level": "APEC",
+    "brand": "LAROSCORBINE"
+   },
+   {
+    "addition": "VORICONAZOLE",
+    "with": "QUINIDINE",
+    "level": "CI",
+    "brand": "VFEND"
+   },
+   {
+    "addition": "PREDNISOLONE",
+    "with": "CICLOSPORINE",
+    "level": "APEC",
+    "brand": "SOLUPRED"
+   },
+   {
+    "addition": "AMPHOTERICINE B",
+    "with": "CICLOSPORINE",
+    "level": "APEC",
+    "brand": "FUNGIZONE NOURRISSONS ET ENFANTS"
+   }
+  ],
+  "replacement": {
+   "addition": "AMBRISENTAN",
+   "with": "CICLOSPORINE",
+   "level": "APEC",
+   "brand": "VOLIBRIS"
+  }
+ },
+ {
+  "cluster": "C-34",
+  "at": 3,
+  "aside": {
+   "drug": "LOMITAPIDE",
+   "brand": "LOJUXTA",
+   "addition": "DILTIAZEM",
+   "brand_addition": "TILDIEM"
+  },
+  "aside_at": 0,
+  "hidden_at": 2,
+  "profile": [
+   "CIMETIDINE",
+   "FLUCYTOSINE",
+   "KETOCONAZOLE",
+   "OMEPRAZOLE"
+  ],
+  "asks": [
+   {
+    "addition": "SALMETEROL",
+    "with": "KETOCONAZOLE",
+    "level": "APEC",
+    "brand": "SEREVENT DISKUS"
+   },
+   {
+    "addition": "ANAGRELIDE",
+    "with": "OMEPRAZOLE",
+    "level": "APEC",
+    "brand": "XAGRID"
+   },
+   {
+    "addition": "GANCICLOVIR",
+    "with": "FLUCYTOSINE",
+    "level": "APEC",
+    "brand": "CYMEVAN"
+   },
+   {
+    "addition": "CARVEDILOL",
+    "with": "CIMETIDINE",
+    "level": "CI",
+    "brand": "KREDEX"
+   },
+   {
+    "addition": "CICLOSPORINE",
+    "with": "CIMETIDINE",
+    "level": "APEC",
+    "brand": "IKERVIS"
+   },
+   {
+    "addition": "VALGANCICLOVIR",
+    "with": "FLUCYTOSINE",
+    "level": "APEC",
+    "brand": "ROVALCYTE"
+   }
+  ],
+  "replacement": {
+   "addition": "VENLAFAXINE",
+   "with": "KETOCONAZOLE",
+   "level": "APEC",
+   "brand": "EFFEXOR L.P."
+  }
+ },
+ {
+  "cluster": "C-35",
+  "at": 3,
+  "aside": {
+   "drug": "PIRFENIDONE",
+   "brand": "ESBRIET",
+   "addition": "FLUVOXAMINE",
+   "brand_addition": "FLOXYFRAL"
+  },
+  "aside_at": 0,
+  "hidden_at": 2,
+  "profile": [
+   "TERBINAFINE",
+   "VENLAFAXINE",
+   "TENOFOVIR DISOPROXIL",
+   "ACIDE ACETYLSALICYLIQUE"
+  ],
+  "asks": [
+   {
+    "addition": "ATAZANAVIR",
+    "with": "TENOFOVIR DISOPROXIL",
+    "level": "APEC",
+    "brand": "REYATAZ"
+   },
+   {
+    "addition": "VORICONAZOLE",
+    "with": "VENLAFAXINE",
+    "level": "APEC",
+    "brand": "VFEND"
+   },
+   {
+    "addition": "DEFERASIROX",
+    "with": "ACIDE ACETYLSALICYLIQUE",
+    "level": "APEC",
+    "brand": "EXJADE"
+   },
+   {
+    "addition": "TETRABENAZINE",
+    "with": "TERBINAFINE",
+    "level": "CI",
+    "brand": "XENAZINE"
+   },
+   {
+    "addition": "ITRACONAZOLE",
+    "with": "VENLAFAXINE",
+    "level": "APEC",
+    "brand": "SPORANOX"
+   },
+   {
+    "addition": "ERYTHROMYCINE",
+    "with": "VENLAFAXINE",
+    "level": "APEC",
+    "brand": "ERYFLUID"
+   }
+  ],
+  "replacement": {
+   "addition": "KETOCONAZOLE",
+   "with": "VENLAFAXINE",
+   "level": "APEC",
+   "brand": "KETODERM"
+  }
+ },
+ {
+  "cluster": "C-36",
+  "at": 3,
+  "aside": {
+   "drug": "ROSUVASTATINE",
+   "brand": "CRESTOR",
+   "addition": "CICLOSPORINE",
+   "brand_addition": "SANDIMMUN"
+  },
+  "aside_at": 0,
+  "hidden_at": 2,
+  "profile": [
+   "DIHYDROERGOTAMINE",
+   "OXCARBAZEPINE",
+   "CAFEINE",
+   "BUSULFAN"
+  ],
+  "asks": [
+   {
+    "addition": "NORFLOXACINE",
+    "with": "CAFEINE",
+    "level": "APEC",
+    "brand": "CHIBROXINE"
+   },
+   {
+    "addition": "DEFERASIROX",
+    "with": "BUSULFAN",
+    "level": "APEC",
+    "brand": "EXJADE"
+   },
+   {
+    "addition": "PÉRAMPANEL",
+    "with": "OXCARBAZEPINE",
+    "level": "APEC",
+    "brand": "FYCOMPA"
+   },
+   {
+    "addition": "DILTIAZEM",
+    "with": "DIHYDROERGOTAMINE",
+    "level": "CI",
+    "brand": "MONO TILDIEM LP"
+   },
+   {
+    "addition": "MEXILETINE",
+    "with": "CAFEINE",
+    "level": "APEC",
+    "brand": "NAMUSCLA"
+   },
+   {
+    "addition": "CIPROFLOXACINE",
+    "with": "CAFEINE",
+    "level": "APEC",
+    "brand": "CILOXAN"
+   }
+  ],
+  "replacement": {
+   "addition": "LITHIUM",
+   "with": "CAFEINE",
+   "level": "APEC",
+   "brand": "LITHIODERM"
+  }
+ },
+ {
+  "cluster": "C-37",
+  "at": 3,
+  "aside": {
+   "drug": "SULPROSTONE",
+   "brand": "NALADOR",
+   "addition": "MÉTHYLERGOMÉTRINE",
+   "brand_addition": "METHERGIN"
+  },
+  "aside_at": 0,
+  "hidden_at": 2,
+  "profile": [
+   "CICLOSPORINE",
+   "ONDANSETRON",
+   "CAFEINE",
+   "ANAGRELIDE"
+  ],
+  "asks": [
+   {
+    "addition": "NORFLOXACINE",
+    "with": "CAFEINE",
+    "level": "APEC",
+    "brand": "CHIBROXINE"
+   },
+   {
+    "addition": "OMEPRAZOLE",
+    "with": "ANAGRELIDE",
+    "level": "APEC",
+    "brand": "ZOLTUM"
+   },
+   {
+    "addition": "TRAMADOL",
+    "with": "ONDANSETRON",
+    "level": "APEC",
+    "brand": "ZAMUDOL LP"
+   },
+   {
+    "addition": "PITAVASTATINE",
+    "with": "CICLOSPORINE",
+    "level": "CI",
+    "brand": "LIPPIZA"
+   },
+   {
+    "addition": "CIPROFLOXACINE",
+    "with": "CAFEINE",
+    "level": "APEC",
+    "brand": "CILOXAN"
+   },
+   {
+    "addition": "PREDNISOLONE",
+    "with": "CICLOSPORINE",
+    "level": "APEC",
+    "brand": "HYDROCORTANCYL"
+   }
+  ],
+  "replacement": {
+   "addition": "TRIMETHOPRIME",
+   "with": "CICLOSPORINE",
+   "level": "APEC",
+   "brand": "DELPRIM"
+  }
+ },
+ {
+  "cluster": "C-38",
+  "at": 3,
+  "aside": {
+   "drug": "PIMOZIDE",
+   "brand": "ORAP",
+   "addition": "SERTRALINE",
+   "brand_addition": "ZOLOFT"
+  },
+  "aside_at": 0,
+  "hidden_at": 2,
+  "profile": [
+   "DEXAMETHASONE",
+   "ROXITHROMYCINE",
+   "AMBRISENTAN",
+   "VENLAFAXINE"
+  ],
+  "asks": [
+   {
+    "addition": "ERYTHROMYCINE",
+    "with": "VENLAFAXINE",
+    "level": "APEC",
+    "brand": "ERYTHROCINE"
+   },
+   {
+    "addition": "MIDAZOLAM",
+    "with": "ROXITHROMYCINE",
+    "level": "APEC",
+    "brand": "BUCCOLAM"
+   },
+   {
+    "addition": "KETOCONAZOLE",
+    "with": "VENLAFAXINE",
+    "level": "APEC",
+    "brand": "KETODERM"
+   },
+   {
+    "addition": "RILPIVIRINE",
+    "with": "DEXAMETHASONE",
+    "level": "CI",
+    "brand": "EDURANT"
+   },
+   {
+    "addition": "ITRACONAZOLE",
+    "with": "VENLAFAXINE",
+    "level": "APEC",
+    "brand": "SPORANOX"
+   },
+   {
+    "addition": "TRAMADOL",
+    "with": "VENLAFAXINE",
+    "level": "APEC",
+    "brand": "TAKADOL"
+   }
+  ],
+  "replacement": {
+   "addition": "VORICONAZOLE",
+   "with": "VENLAFAXINE",
+   "level": "APEC",
+   "brand": "VFEND"
+  }
+ },
+ {
+  "cluster": "C-39",
+  "at": 2,
+  "aside": {
+   "drug": "MÉTHYLERGOMÉTRINE",
+   "brand": "METHERGIN",
+   "addition": "SULPROSTONE",
+   "brand_addition": "NALADOR"
+  },
+  "aside_at": 0,
+  "hidden_at": 3,
+  "profile": [
+   "DASABUVIR",
+   "ACIDE ACETYLSALICYLIQUE",
+   "VENLAFAXINE",
+   "SACITUZUMAB"
+  ],
+  "asks": [
+   {
+    "addition": "DEFERASIROX",
+    "with": "ACIDE ACETYLSALICYLIQUE",
+    "level": "APEC",
+    "brand": "EXJADE"
+   },
+   {
+    "addition": "ITRACONAZOLE",
+    "with": "VENLAFAXINE",
+    "level": "APEC",
+    "brand": "SPORANOX"
+   },
+   {
+    "addition": "ETHINYLESTRADIOL",
+    "with": "DASABUVIR",
+    "level": "CI",
+    "brand": "ETHINYLOESTRADIOL EFFIK"
+   },
+   {
+    "addition": "KETOCONAZOLE",
+    "with": "VENLAFAXINE",
+    "level": "APEC",
+    "brand": "KETODERM"
+   },
+   {
+    "addition": "CLARITHROMYCINE",
+    "with": "VENLAFAXINE",
+    "level": "APEC",
+    "brand": "ZECLAR"
+   },
+   {
+    "addition": "VORICONAZOLE",
+    "with": "VENLAFAXINE",
+    "level": "APEC",
+    "brand": "VFEND"
+   }
+  ],
+  "replacement": {
+   "addition": "TRAMADOL",
+   "with": "VENLAFAXINE",
+   "level": "APEC",
+   "brand": "CONTRAMAL LP"
+  }
+ }
+]

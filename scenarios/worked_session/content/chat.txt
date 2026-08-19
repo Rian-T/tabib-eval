@@ -1,0 +1,11 @@
+File de dispensation, vacation du matin.
+
+{listing}
+
+Dossier :
+
+{record}
+
+Thésaurus ANSM :
+
+{reference}

@@ -1,0 +1,21 @@
+# consult-world — what it is, what it was built against, and what it holds.
+# The two version strings ride on every record: a number that moves between 2026
+# and 2027 has to be attributable to a model or to an instrument, and one string
+# cannot carry both.
+
+[world]
+name = "consult-world"
+version = "1.6.0"
+engine = ">=0.1,<0.2"
+# The science served on this world: where its cells, its numbers and its
+# figure are declared. A bare name is a module under `scenarios/`; a path
+# ending in .py is a file inside the package, which is how a package that
+# carries its own science declares it.
+scenario = "consultation"
+licence = "code MIT"
+reference = "thésaurus des interactions médicamenteuses ANSM"
+
+# Verified at load. A world whose content moved under it is not the world whose
+# numbers were published, and finding that out at load is why these are here.
+[content]
+"clusters.json" = "sha256:f00986b9446da4faf329999cf9a32576580f8d77c79f5ad568155a27fb894fc5"
